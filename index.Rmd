@@ -257,6 +257,7 @@
 **<font face="ヒラギノ角ゴ Pro">1次研究を含む代表的な論文検索サービス</font>**  
 
   * [ACCESSSS](http://plus.mcmaster.ca/accessss/Default.aspx?Page=1)：McMaster University  
+    [British Nursing Index](http://www.proquest.com/products-services/bni.html)：ProQuest，UK  
     [Cumulative Index to Nursing and Allied Health Literature(CINAHL)](https://health.ebsco.com/products/the-cinahl-database)：EBSCO  
     [CiNii](http://ci.nii.ac.jp/)：国立情報学研究所(NII)，Japan ※free  
     [EBSCO](http://www.ebsco.co.jp/)  
