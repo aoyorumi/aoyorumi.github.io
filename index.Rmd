@@ -134,81 +134,69 @@
 今後AIなどのテクノロジーの発展によって開発がますます進んでいくだろう（例：Demner-Fushmane et al(2013))  
 
   2. **<font face="ヒラギノ角ゴ Pro">Summaries</font>**  
-[Affinity work health & wellbeing hub](http://affinityhealthhub.co.uk/)：Affinity Health at Work，UK   
-[Australian Asthma Handbook](http://www.asthmahandbook.org.au/)：National Asthma Council Australia，Australia ※free  
-[Australian Medicines Handbook](https://amhonline.amh.net.au/auth)：Australian Medicines Handbook，Australia，医療  
-[Best Practice](http://bestpractice.bmj.com/info/)：BMJ，UK，医療 ※期間限定でfree    
-[Cancer Council Australia wiki platform](http://wiki.cancer.org.au/australia/Guidelines)：Cancer Council Australia，Australia，医療 ※free  
-[Clinical Evidence](http://clinicalevidence.bmj.com/x/index.html)：BMJ，UK，医療 ※free  
-[ClinicalKey](https://www.clinicalkey.com/info/jp/)：Elsevier，Nederland  
-[Clinical Practice Guidelines](https://www.cma.ca/En/Pages/clinical-practice-guidelines.aspx)：The Canadian Medical Association，Canada ※free  
-[Clinical Practice Guidelines in Oncology(NCCN)](https://www.nccn.org/professionals/physician_gls/f_guidelines.asp)：National Comprehensive Cancer Network，US  
-[Division 12’s Empirically Supported Treatments(ESTs)](http://www.div12.org/psychological-treatments/)：American Psychological Association，US ※free  
-[DynaMed Plus](http://www.dynamed.com/home/)：EBSCO，US，医療 ※期間限定でfree  
-[EBM Guidelines](http://onlinelibrary.wiley.com/book/10.1002/0470057203)：John Wiley & Sons，US，医療    
-[Essential Evidence Plus](https://www.essentialevidenceplus.com/)：John Wiley & Sons，US，医療  
-[Guidelines International Network(G-I-N)](http://www.g-i-n.net/library/international-guidelines-library)，Global Network  ※free(無料登録必要)  
-[HANDI](http://www.racgp.org.au/your-practice/guidelines/handi/)：The Royal Australian College of General Practitioners (RACGP) ，Australia ※free  
-[National Guidelines Clearinghouse](https://www.guideline.gov/)：Agency for Healthcare Research and Quality ，US ※free  
-[National Health and Medical Research Council(NHMRC)](https://www.nhmrc.gov.au/)：NHMRC，Australia ※free  
-[National Institute for Health and Care Excellence(NICE)](https://www.nice.org.uk/)：NICE，UK ※free  
-[NICE Evidence search](https://www.evidence.nhs.uk/)：NICE，UK ※free  
-[Minds](https://minds.jcqhc.or.jp/)：公益財団法人日本医療機能評価機構，Japan，医療  
-[OrthoEvidence](http://www.myorthoevidence.com/)：OrthoEvidence，Canada，医療  
-[Registered Nurses' Association of Ontario(RNAO)](http://rnao.ca/bpg)：RNAO，Canada，看護 ※free  
-[Rehabilitation Clinical Practice Rehabilitation Guidelines](http://health.uottawa.ca/rehabguidelines/en/login.php)：University of Ottawa，Canada  
-[SAMHSA’s National Registry of Evidence-Based Programs and Practices(NREPP)](http://nrepp.samhsa.gov/AllPrograms.aspx)：SAMHSA，US ※free  
+[Affinity work health & wellbeing hub](http://affinityhealthhub.co.uk/)｜Affinity Health at Work，UK   
+[Australian Asthma Handbook](http://www.asthmahandbook.org.au/)｜National Asthma Council Australia，Australia　※free  
+[Australian Medicines Handbook](https://amhonline.amh.net.au/auth)｜Australian Medicines Handbook，Australia，医療  
+[Best Practice](http://bestpractice.bmj.com/info/)｜BMJ，UK，医療　※期間限定でfree    
+[Cancer Council Australia wiki platform](http://wiki.cancer.org.au/australia/Guidelines)｜Cancer Council Australia，Australia，医療　※free  
+[Clinical Evidence](http://clinicalevidence.bmj.com/x/index.html)｜BMJ，UK，医療　※free  
+[ClinicalKey](https://www.clinicalkey.com/info/jp/)｜Elsevier，Nederland  
+[Clinical Practice Guidelines](https://www.cma.ca/En/Pages/clinical-practice-guidelines.aspx)｜The Canadian Medical Association，Canada　※free  
+[Clinical Practice Guidelines in Oncology(NCCN)](https://www.nccn.org/professionals/physician_gls/f_guidelines.asp)｜National Comprehensive Cancer Network，US  
+[Division 12’s Empirically Supported Treatments(ESTs)](http://www.div12.org/psychological-treatments/)｜American Psychological Association，US　※free  
+[DynaMed Plus](http://www.dynamed.com/home/)｜EBSCO，US，医療　※期間限定でfree  
+[EBM Guidelines](http://onlinelibrary.wiley.com/book/10.1002/0470057203)｜John Wiley & Sons，US，医療    
+[Essential Evidence Plus](https://www.essentialevidenceplus.com/)｜John Wiley & Sons，US，医療  
+[Guidelines International Network(G-I-N)](http://www.g-i-n.net/library/international-guidelines-library)｜Global Network  ※free(無料登録必要)  
+[HANDI](http://www.racgp.org.au/your-practice/guidelines/handi/)｜The Royal Australian College of General Practitioners (RACGP) ，Australia　※free  
+[National Guidelines Clearinghouse](https://www.guideline.gov/)｜Agency for Healthcare Research and Quality ，US　※free  
+[National Health and Medical Research Council(NHMRC)](https://www.nhmrc.gov.au/)｜NHMRC，Australia　※free  
+[National Institute for Health and Care Excellence(NICE)](https://www.nice.org.uk/)｜NICE，UK　※free  
+[NICE Evidence search](https://www.evidence.nhs.uk/)｜NICE，UK　※free  
+[Minds](https://minds.jcqhc.or.jp/)｜公益財団法人日本医療機能評価機構，Japan，医療  
+[OrthoEvidence](http://www.myorthoevidence.com/)｜OrthoEvidence，Canada，医療  
+[Registered Nurses' Association of Ontario(RNAO)](http://rnao.ca/bpg)｜RNAO，Canada，看護　※free  
+[Rehabilitation Clinical Practice Rehabilitation Guidelines](http://health.uottawa.ca/rehabguidelines/en/login.php)｜University of Ottawa，Canada  
+[SAMHSA’s National Registry of Evidence-Based Programs and Practices(NREPP)](http://nrepp.samhsa.gov/AllPrograms.aspx)｜SAMHSA，US　※free  
 [Therapeutic Guidelines](https://www.tg.org.au/)：Therapeutic Guidelines Limited(THG)，Australia  
-[Trip Database](https://www.tripdatabase.com/)：Trip Database，UK ※free  
-[UpToDate](http://www.uptodate.com/ja/home)：Wolters Kluwer Health，Nederland，医療  
+[Trip Database](https://www.tripdatabase.com/)｜Trip Database，UK　※free  
+[UpToDate](http://www.uptodate.com/ja/home)｜Wolters Kluwer Health，Nederland，医療  
 ※ガイドラインを更新し続けるためには莫大な時間・お金・専門能力が必要とされるため，”living guidelines”を維持するのは難しい。  
 ※ガイドラインはPubMedやEmbase，CINAHLなどでも検索できる。
 
   3. **<font face="ヒラギノ角ゴ Pro">Synopses of Syntheses</font>**  
-[ACP Jouranal Club](http://annals.org/aim/journal-club#page=1&f_ArticleTypeDisplayName=ACP+Journal+Club&fl_ArticleTypeID=6886)：American College of Physicians，US  
-[Evidence-Based Medicine](http://ebm.bmj.com/)：BMJ，UK  
-[Evidence-Based Mental Health](http://ebmh.bmj.com/)：BMJ，UK  
-[Evidence-Based Nursing](http://ebn.bmj.com/)：BMJ，UK  
+[ACP Jouranal Club](http://annals.org/aim/journal-club#page=1&f_ArticleTypeDisplayName=ACP+Journal+Club&fl_ArticleTypeID=6886)｜American College of Physicians，US  
+[Evidence-Based Medicine](http://ebm.bmj.com/)｜BMJ，UK  
+[Evidence-Based Mental Health](http://ebmh.bmj.com/)｜BMJ，UK  
+[Evidence-Based Nursing](http://ebn.bmj.com/)｜BMJ，UK  
 
   4. **<font face="ヒラギノ角ゴ Pro">Syntheses</font>**  
-[Cochrane Detabase of Systematic Review(CDSR)](http://onlinelibrary.wiley.com/cochranelibrary/search)：Cochrane Collaboration/John Wiley & Sons，Global Network ※free  
-[Campbell Collaboration](https://www.campbellcollaboration.org/library.html)：Campbell Collaboration，Global Network，教育/社会福祉/行動科学が中心 ※free  
-[Epistemonikos](https://www.epistemonikos.org/) ※free  
-[Health Evidence](http://www.healthevidence.org/)：McMaster University，Canada ※free  
-[HEALTH SYSTEMS EVIDENCE](https://www.healthsystemsevidence.org/)：McMaster University，Canada ※free  
-[JBI Database of Systematic Reviews and Implementation Reports](http://journals.lww.com/jbisrir/pages/default.aspx)：The Joanna Bridggs Institute(JBI)，Australia ※free  
-[McMaster PLUS Projects](http://hiru.mcmaster.ca/hiru/HIRU_McMaster_PLUS_projects.aspx)：：McMaster University，Canada MentalHealth+(メンタルヘルス)，Nursing+(看護)，Obesity+(肥満)，Rehab+(リハビリ)など ※free(登録必要)  
-[OTseeker](http://www.otseeker.com/)：　作業療法 ※free  
-[PDQ-Evidence](https://www.pdq-evidence.org/)：　医療・健康制度(health systems & population health) ※free  
-[PEDro](https://www.pedro.org.au/japanese/)：The Centre of Evidence-Based Physiotherapy (CEBP)，Australia 理学療法 ※free  
-[PsycBITE](http://psycbite.com/web/cms/content/home)：PsycBITE 脳障害後に生じる心理学的な問題 ※free  
-[PubMed Health](https://www.ncbi.nlm.nih.gov/pubmedhealth/)：National Library of Medicine，US  
-[speechBITE](http://speechbite.com/)：speechBITE　言語療法 ※free  
+[Cochrane Detabase of Systematic Review(CDSR)](http://onlinelibrary.wiley.com/cochranelibrary/search)｜Cochrane Collaboration/John Wiley & Sons，Global Network　※free  
+[Campbell Collaboration](https://www.campbellcollaboration.org/library.html)｜Campbell Collaboration，Global Network，教育/社会福祉/行動科学が中心　※free  
+[Epistemonikos](https://www.epistemonikos.org/)　※free  
+[Health Evidence](http://www.healthevidence.org/)｜McMaster University，Canada　※free  
+[HEALTH SYSTEMS EVIDENCE](https://www.healthsystemsevidence.org/)｜McMaster University，Canada　※free  
+[JBI Database of Systematic Reviews and Implementation Reports](http://journals.lww.com/jbisrir/pages/default.aspx)｜The Joanna Bridggs Institute(JBI)，Australia　※free  
+[McMaster PLUS Projects](http://hiru.mcmaster.ca/hiru/HIRU_McMaster_PLUS_projects.aspx)｜McMaster University，Canada MentalHealth+(メンタルヘルス)，Nursing+(看護)，Obesity+(肥満)，Rehab+(リハビリ)など　※free(登録必要)  
+[OTseeker](http://www.otseeker.com/)｜　作業療法　※free  
+[PDQ-Evidence](https://www.pdq-evidence.org/)｜　医療・健康制度(health systems & population health)　※free  
+[PEDro](https://www.pedro.org.au/japanese/)｜The Centre of Evidence-Based Physiotherapy (CEBP)，Australia 理学療法　※free  
+[PsycBITE](http://psycbite.com/web/cms/content/home)｜PsycBITE 脳障害後に生じる心理学的な問題　※free  
+[PubMed Health](https://www.ncbi.nlm.nih.gov/pubmedhealth/)｜National Library of Medicine，US  
+[speechBITE](http://speechbite.com/)｜speechBITE　言語療法　※free  
 
   5. **<font face="ヒラギノ角ゴ Pro">Synopses of Studies</font>**  
-[ACP Jouranal Club](http://annals.org/aim/journal-club#page=1&f_ArticleTypeDisplayName=ACP+Journal+Club&fl_ArticleTypeID=6886)：American College of Physicians，US  
-[Cancer Treatment Reviews](http://www.cancertreatmentreviews.com/)：Elsevier， Nederland  
-[Evidence-Based Medicine](http://ebm.bmj.com/)：BMJ，UK  
-[Evidence-Based Mental Health](http://ebmh.bmj.com/)：BMJ，UK  
-[Evidence-Based Nursing](http://ebn.bmj.com/)：BMJ，UK  
+[ACP Jouranal Club](http://annals.org/aim/journal-club#page=1&f_ArticleTypeDisplayName=ACP+Journal+Club&fl_ArticleTypeID=6886)｜American College of Physicians，US  
+[Cancer Treatment Reviews](http://www.cancertreatmentreviews.com/)｜Elsevier， Nederland  
+[Evidence-Based Medicine](http://ebm.bmj.com/)｜BMJ，UK  
+[Evidence-Based Mental Health](http://ebmh.bmj.com/)｜BMJ，UK  
+[Evidence-Based Nursing](http://ebn.bmj.com/)｜BMJ，UK  
 
   6. **<font face="ヒラギノ角ゴ Pro">Studies</font>**  
-  * BioMed Central  
-[Systematic Reviews](https://systematicreviewsjournal.biomedcentral.com/)  
-[Trials](https://trialsjournal.biomedcentral.com/)  
-[BMC Psychiatry](https://bmcpsychiatry.biomedcentral.com/)  
-[BMC Psychology](https://bmcpsychology.biomedcentral.com/)  
-  * ScienceDirect [心理学関連所蔵雑誌一覧](http://www.sciencedirect.com/science/journals/sub/psychology)  
-[Behaviour Research and Therapy](http://www.sciencedirect.com/science/journal/00057967?sdc=1) ※RCTsあり  
-[Behavior Therapy](http://www.sciencedirect.com/science/journal/00057894?sdc=1)  
-[Clinical Psychology Review](https://www.journals.elsevier.com/clinical-psychology-review)  
-[Cognitive and Behavioral Practice](http://www.sciencedirect.com/science/journal/10777229?sdc=1)  
-[International Journal of Clinical and Health Psychology](http://www.sciencedirect.com/science/journal/16972600?sdc=1)  
-[Journal of Behavior Therapy and Experimental Psychiatry](http://www.sciencedirect.com/science/journal/00057916?sdc=1)  
   * APA [心理学関連所蔵雑誌一覧](http://www.apa.org/pubs/journals/browse.aspx?query=Title:*&type=journal)  
 [Canadian Psychology / Psychologie canadienne](http://www.apa.org/pubs/journals/cap/)  
 [Journal of Abnormal Psychology](http://content.apa.org/PsycARTICLES/journal/abn/126/5)  
-[Journal of Consulting and Clinical Psychology](http://content.apa.org/PsycARTICLES/journal/ccp/85/8) ※RCTsあり  
+[Journal of Consulting and Clinical Psychology](http://content.apa.org/PsycARTICLES/journal/ccp/85/8)　※RCTsあり  
 [Journal of Counseling Psychology](http://content.apa.org/PsycARTICLES/journal/cou/64/4)  
 [Health Psychology](http://www.apa.org/pubs/journals/hea/)  
 [Professional Psychology: Research and Practice](http://www.apa.org/pubs/journals/pro/)  
@@ -216,25 +204,28 @@
 [Psychological Bulletin](http://www.apa.org/pubs/journals/bul/)  
 [Psychological Methods](http://www.apa.org/pubs/journals/met/)  
 [Psychological Review](http://www.apa.org/pubs/journals/rev/)  
+  * BioMed Central  
+[Systematic Reviews](https://systematicreviewsjournal.biomedcentral.com/)  
+[Trials](https://trialsjournal.biomedcentral.com/)  
+[BMC Psychiatry](https://bmcpsychiatry.biomedcentral.com/)  
+[BMC Psychology](https://bmcpsychology.biomedcentral.com/)  
   * SAGE [心理学関連所蔵雑誌一覧](http://journals.sagepub.com/action/showPublications?category=10.1177/health-sciences-psychiatry-and-psychology)  
 [Assessment](http://journals.sagepub.com/home/asm)  
 [Clinical Psychological Science](http://journals.sagepub.com/loi/cpx)  
 [Current Directions in Psychological Science](http://journals.sagepub.com/home/cdp)  
 [Perspectives on Psychological Science](http://journals.sagepub.com/toc/pps/current)  
 [Psychological Science](http://journals.sagepub.com/home/pss)  
-  * Wiley Online Library [心理学関連所蔵雑誌一覧](http://onlinelibrary.wiley.com/)(→BROWSE:Psychology)  
-[British Journal of Clinical Psychology](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)2044-8260)  
-[British Journal of Health Psychology](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)2044-8287)  
-[Clinical Psychology & Psychotherapy](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-0879)  
-[Clinical Psychology: Science and Practice](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1468-2850)  
-[Depression and Anxiety](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1520-6394) ※RCTsあり  
-[International Journal of Evidence-Based Healthcare](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1744-1609)  
-[Journal of Clinical Psychology](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-4679)  
-[Journal of Community Psychology](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1520-6629)  
+  * ScienceDirect [心理学関連所蔵雑誌一覧](http://www.sciencedirect.com/science/journals/sub/psychology)  
+[Behaviour Research and Therapy](http://www.sciencedirect.com/science/journal/00057967?sdc=1)　※RCTsあり  
+[Behavior Therapy](http://www.sciencedirect.com/science/journal/00057894?sdc=1)  
+[Clinical Psychology Review](https://www.journals.elsevier.com/clinical-psychology-review)  
+[Cognitive and Behavioral Practice](http://www.sciencedirect.com/science/journal/10777229?sdc=1)  
+[International Journal of Clinical and Health Psychology](http://www.sciencedirect.com/science/journal/16972600?sdc=1)  
+[Journal of Behavior Therapy and Experimental Psychiatry](http://www.sciencedirect.com/science/journal/00057916?sdc=1)  
   * Springer Link [心理学関連所蔵雑誌一覧](https://link.springer.com/search?facet-discipline=%22Psychology%22&facet-content-type=%22Journal%22)  
 [Clinical Child and Family Psychology Review](https://link.springer.com/journal/10567)  
 [Journal of Psychopathology and Behavioral Assessment](https://link.springer.com/journal/volumesAndIssues/10862)  
-  * Taylor & Francis  [心理学関連所蔵雑誌一覧](http://www.tandf.co.uk/libsite/productInfo/journals/onlineCollections/behavioralScience/)→ Title List  
+  * Taylor & Francis  [心理学関連所蔵雑誌一覧](http://www.tandf.co.uk/libsite/productInfo/journals/onlineCollections/behavioralScience/)(→ Title List)  
 [British Journal of Guidance & Counselling](http://www.tandfonline.com/toc/cbjg20/current)  
 [European Journal of Psychotherapy & Counselling](http://www.tandfonline.com/toc/rejp20/current)  
 [Health Psychology Review](http://www.apa.org/pubs/journals/hea/)  
@@ -243,143 +234,176 @@
 [Psychotherapy Research](http://www.tandfonline.com/toc/tpsr20/current)  
 [Journal of Clinical Child & Adolescent Psychology](http://www.tandfonline.com/toc/hcap20/current)  
 [The Journal of Positive Psychology](http://www.tandfonline.com/toc/rpos20/current)  
-  * その他  
-[Annual Review of Clinical Psychology](http://www.annualreviews.org/loi/clinpsy)：Annual Reviews  
+  * Wiley Online Library [心理学関連所蔵雑誌一覧](http://onlinelibrary.wiley.com/)(→BROWSE:Psychology)  
+[British Journal of Clinical Psychology](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)2044-8260)  
+[British Journal of Health Psychology](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)2044-8287)  
 [Clinical Psychologist](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1742-9552)  
-[Cochrane Central Register of Controlled Trials (CENTRAL)](http://onlinelibrary.wiley.com/cochranelibrary/search?searchRow.searchOptions.searchProducts=clinicalTrialsDoi)  
-[frontiers in Psychology](http://journal.frontiersin.org/journal/psychology#)  
-[JAMA Psychiatry](http://jamanetwork.com/journals/jamapsychiatry)  
-[Journal of Clinical Psychiatry](http://www.psychiatrist.com/JCP/TOC/Pages/con7806.aspx) ※RCTsあり  
-[nature human behaviour](https://www.nature.com/nathumbehav)  
-[Psychological Medicine](https://www.cambridge.org/core/journals/psychological-medicine) ※RCTsあり  
-[Psychotherapy and Psychosomatics](https://www.karger.com/Journal/Home/223864)：KARGER  
+[Clinical Psychology & Psychotherapy](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-0879)  
+[Clinical Psychology: Science and Practice](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1468-2850)  
+[Depression and Anxiety](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1520-6394) ※RCTsあり  
+[International Journal of Evidence-Based Healthcare](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1744-1609)  
+[Journal of Clinical Psychology](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-4679)  
+[Journal of Community Psychology](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1520-6629)  
+  * Others  
+[Annual Review of Clinical Psychology](http://www.annualreviews.org/loi/clinpsy)｜Annual Reviews，US  
+[Cochrane Central Register of Controlled Trials (CENTRAL)](http://onlinelibrary.wiley.com/cochranelibrary/search?searchRow.searchOptions.searchProducts=clinicalTrialsDoi)｜Cochrane，Global Network  
+[Frontiers in Psychology](http://journal.frontiersin.org/journal/psychology#)｜Frontiers  
+[JAMA Psychiatry](http://jamanetwork.com/journals/jamapsychiatry)｜JAMA，US  
+[Journal of Clinical Psychiatry](http://www.psychiatrist.com/JCP/TOC/Pages/con7806.aspx)｜Physicians Postgraduate Press，US　※RCTsあり  
+[Nature human behaviour](https://www.nature.com/nathumbehav)｜Nature，UK  
+[Psychological Medicine](https://www.cambridge.org/core/journals/psychological-medicine)｜Cambridge University，UK　※RCTsあり  
+[Psychotherapy and Psychosomatics](https://www.karger.com/Journal/Home/223864)｜KARGER，Switzerland  
 
 **<font face="ヒラギノ角ゴ Pro">1次研究を含む代表的な論文検索サービス</font>**  
 
-  * [ACCESSSS](http://plus.mcmaster.ca/accessss/Default.aspx?Page=1)：McMaster University  
-    [British Nursing Index](http://www.proquest.com/products-services/bni.html)：ProQuest，UK  
-    [Cumulative Index to Nursing and Allied Health Literature(CINAHL)](https://health.ebsco.com/products/the-cinahl-database)：EBSCO  
-    [CiNii](http://ci.nii.ac.jp/)：国立情報学研究所(NII)，Japan ※free  
-    [EBSCO](http://www.ebsco.co.jp/)  
-    [Embase](http://jp.elsevier.com/online-tools/embase/about)：Elsevier  
-    [Google Scholar](https://scholar.google.co.jp/) ※free  
+  * [ACCESSSS](http://plus.mcmaster.ca/accessss/Default.aspx?Page=1)｜McMaster University，Canada  
+    [African Index Medicus](http://indexmedicus.afro.who.int/)｜WHO
+    [British Nursing Index](http://www.proquest.com/products-services/bni.html)｜ProQuest，UK  
+    [Cumulative Index to Nursing and Allied Health Literature(CINAHL)](https://health.ebsco.com/products/the-cinahl-database)｜EBSCO，US  
+    [CiNii](http://ci.nii.ac.jp/)｜国立情報学研究所(NII)，Japan　※free  
+    [EBSCO](http://www.ebsco.co.jp/)｜US  
+    [Embase](http://jp.elsevier.com/online-tools/embase/about)｜Elsevier，Nederland  
+    [Google Scholar](https://scholar.google.co.jp/)｜Google，US　※free  
     [Health Services Research (HSR) PubMed Queries](https://www.nlm.nih.gov/nichsr/hedges/search.html) 研究の内容に応じた検索が可能(アウトカム，コスト，質的研究など)  
-    [医中誌Web](http://www.jamas.or.jp/)：医学中央雑誌刊行会，Japan  
-    [JAIRO](http://jairo.nii.ac.jp/)：国立情報学研究所(NII)，Japan  
-    [JDreamⅢ](http://jdream3.com/)，独立行政法人科学技術振興機構(JST)/株式会社ジー・サーチ，Japan  
-    [J-STAGE](https://www.jstage.jst.go.jp/browse/-char/ja/)：独立行政法人科学技術振興機構（JST），Japan ※free  
-    [メディカルオンライン](http://www.medicalonline.jp/)：株式会社メテオ，Japan  
-    [Ovid](http://www.ovid.com/site/japan/index.jsp) アグリゲータ系  
-    [ProQuest](http://www.proquest.com/APAC-JP/) アグリゲータ系  
-    [PsycINFO](http://www.apa.org/pubs/databases/psycinfo/index.aspx)：American Psychological Association(APA)，US  
-    [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/)(MEDLINEを含む)：National Library of Medicine(HLM)，US ※free  
-    [PubMed Clinical Queries](https://www.ncbi.nlm.nih.gov/pubmed/clinical/)臨床疑問に応じた検索が可能(therapy(療法)，diagnosis(診断)，aetiology(病因)，prognosis(予後)，clinical prediction(臨床予測))  
-    [ScienceDirect](http://www.sciencedirect.com/)：Elsevier ※free  
-    [Scopus](http://jp.elsevier.com/online-tools/scopus)：Elsevier  
-    [Trip Database](https://www.tripdatabase.com/)：システマティック・レビューと1次研究などを格付けした上で表示，ガイドラインも検索可能 ※free  
-    [Web of Science](http://ip-science.thomsonreuters.jp/products/web-of-science/)：Clarivate Analytics  
+    [医中誌Web](http://www.jamas.or.jp/)｜医学中央雑誌刊行会，Japan  
+    [JAIRO](http://jairo.nii.ac.jp/)｜国立情報学研究所(NII)，Japan  
+    [JDreamⅢ](http://jdream3.com/)｜独立行政法人科学技術振興機構(JST)/株式会社ジー・サーチ，Japan  
+    [J-STAGE](https://www.jstage.jst.go.jp/browse/-char/ja/)｜独立行政法人科学技術振興機構（JST），Japan　※free  
+    [メディカルオンライン](http://www.medicalonline.jp/)｜株式会社メテオ，Japan  
+    [Ovid](http://www.ovid.com/site/japan/index.jsp)｜Wolters Kluwer，Nederland，アグリゲータ系  
+    [ProQuest](http://www.proquest.com/APAC-JP/)｜US，アグリゲータ系  
+    [PsycINFO](http://www.apa.org/pubs/databases/psycinfo/index.aspx)｜American Psychological Association(APA)，US  
+    [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/)(MEDLINEを含む)｜National Library of Medicine(HLM)，US　※free  
+    [PubMed Clinical Queries](https://www.ncbi.nlm.nih.gov/pubmed/clinical/)｜NLM，US，臨床疑問に応じた検索が可能(therapy(療法)，diagnosis(診断)，aetiology(病因)，prognosis(予後)，clinical prediction(臨床予測))　※free  
+    [ScienceDirect](http://www.sciencedirect.com/)｜Elsevier，Nederland　※free  
+    [Scopus](http://jp.elsevier.com/online-tools/scopus)｜Elsevier，Nederland  
+    [Trip Database](https://www.tripdatabase.com/)｜UK，システマティック・レビューから1次研究，ガイドラインまで検索可能　※free  
+    [Web of Science](http://ip-science.thomsonreuters.jp/products/web-of-science/)｜Clarivate Analytics，  
 
 　**<font face="ヒラギノ角ゴ Pro">学習資源/報告ガイドライン</font>**   
 
-  * 海外  
-[Cochrane Training](http://training.cochrane.org/)  
-[EPPI-Centre](http://eppi.ioe.ac.uk/cms/)  
-[EQUATOR](http://www.equator-network.org/) [日本語訳](http://www.equator-network.org/library/translations-of-reporting-guidelines/#Japanese)
+  * EBP｜海外  
+[Cochrane Training](http://training.cochrane.org/)｜Cochrane，Gloval Network  
+[EPPI-Centre](http://eppi.ioe.ac.uk/cms/)｜UCL，UK  
+[EQUATOR](http://www.equator-network.org/)｜Gloval network [日本語訳](http://www.equator-network.org/library/translations-of-reporting-guidelines/#Japanese)
 AGREE -ガイドライン評価｜CARE -症例研究｜CONSORT -無作為化比較試験｜PRISMA -システマティック・レビュー/メタ分析｜STARD -診断制度研究｜STROBE -観察研究 など  
-[Joanna Briggs Institute (JBI)](http://joannabriggs.org/)，Australia  
-[Student 4 Best Evidence](http://www.students4bestevidence.net/category/searching-for-evidence/databases-searching-for-evidence/)  
-[Testing Treatments](http://www.testingtreatments.org/?nabm=1&utm_referrer=http://www.casp-uk.net/useful-links?lightbox=image12e)，UK  
+[Joanna Briggs Institute (JBI)](http://joannabriggs.org/)｜Australia  
+[Student 4 Best Evidence](http://www.students4bestevidence.net/category/searching-for-evidence/databases-searching-for-evidence/)｜Gloval network of students  
+[Testing Treatments](http://www.testingtreatments.org/?nabm=1&utm_referrer=http://www.casp-uk.net/useful-links?lightbox=image12e)｜UK  
 
-  * 日本  
+  * EBP｜日本  
 [AHEADMAP](https://aheadmap.jimdo.com/)  
 行動療法研究. (2014). [行動療法研究における研究報告に関するガイドライン](http://jabt.umin.ne.jp/j/activities/3-6journal.html)   日本認知・行動療法学会.  
 奥村泰之.[臨床疫学研究における報告の質向上のための統計学の研究会](http://blue.zero.jp/yokumura/workshop.html)  
-国里愛彦(2017).[臨床心理学におけるR入門: データハンドリングから統計解析まで.](https://www.slideshare.net/YoshihikoKunisato/r-74207682) SlideShare.    
+
+  * R  
+国里愛彦(2017).[臨床心理学におけるR入門: データハンドリングから統計解析まで.](https://www.slideshare.net/YoshihikoKunisato/r-74207682) SlideShare.  
+[swirl](http://swirlstats.com/)
+[Try R](http://tryr.codeschool.com/levels/1/challenges/5)  
+
+**<font face="ヒラギノ角ゴ Pro">研究</font>**   
+
+  * OpenScience  
+[Open Science Framework(OSF)](https://osf.io/)｜Center for Open Science(COS)  
+[PsyArXiv](https://osf.io/preprints/psyarxiv)｜COS，preprint(事前出版)  
+[Psychological Science Submission Guidelines](http://www.psychologicalscience.org/publications/psychological_science/ps-submissions)(Open Practices)  
+[The Peer Reviewers’ Openness Initiative](https://opennessinitiative.org/)  
+[Tracking switched outcomes in clinical trials](http://compare-trials.org/)｜EBM DataLab：University of Oxford，UK  
+[Wellcome Open Research](https://wellcomeopenresearch.org/)  
+
+  * Pre-registration(事前登録)  
+[AsPredicted](https://aspredicted.org/index.php)
+[Preregistration Challenge](https://cos.io/prereg/)｜COS  
+[Registered Reports](https://cos.io/rr/)｜COS  
+
+  * Replicability(再現可能性)/Reproducibility(再生可能性)  
+Definition(定義)：[Replicability vs Reproducibility](http://www.replicability.tau.ac.il/index.php/replicability-in-science/replicability-vs-reproducibility.html)｜Replicability Research Group：Tel Aviv University，
+Israel  
 国里愛彦(2017).[統計解析の再現可能性を高める取り組み.](https://www.slideshare.net/YoshihikoKunisato/ss-77835559) SlideShare.  
 
 <p style="margin-bottom:2em;">
 　**<font face="ヒラギノ角ゴ Pro">論文</font>**  
 
-  * Beck, J. G., Castonguay, L. G., Chronis-Tuscano, A., Klonsky, E. D., McGinn, L. K., & Youngstrom, E. A. (2014). Principles for Training in Evidence-Based Psychology: Recommendations for the Graduate Curricula in Clinical Psychology. Clinical Psychology Science and Practice, 21(4), 410-424. ※EBP，education  
-Blease, C. R., Lilienfeld, S. O., & Kelley, J. M. (2016). Evidence-Based Practice and Psychological Treatments: The Imperatives of Informed Consent.  Frontiers in Psychology, 7:1170, 1-5. ※EBP，informed consent  
-Boesen, K., Saiz, L. C., Erviti, J., Storebo, O. J., Gluud, C., Gotzsche, P. C., & Jorgensen, K. J. (2017). The Cochrane Collaboration withdraws a review on methylphenidate for adults with attention deficit hyperactivity disorder. Evidence Based Medicine, 22(4), 143-147. ※EBP，research  
-Bouffard, M., & Reid, G. (2012). The Good, the Bad, and the Ugly of Evidence-Based Practice. Adapted Physical Activity Quarterly, 29, 1-24. ※EBP，criticism  
-Bradley, H. A., Rucklidge, J. J., & Mulder, R. T. (2017). A systematic review of trial registration and selective outcome reporting in psychotherapy randomized controlled trials. Acta Psychiatr Scand, 135(1), 65-77. ※review  
-Bell, Z., Seager, I., Shader, T., & Fristad, M. A. (2017). Updating the Textbook: A Novel Approach to Training Graduate Students in Evidence-Based Youth Practices. Cognitive and Behavioral Practice, 1-6. ※EBP, training  
-Castelnuovo, G. (2017). New and Old Adventures of Clinical Health Psychology in the Twenty-First Century: Standing on the Shoulders of Giants. Frontiers in Psychology, 8:1214, 1-7. ※EBP，clinical health psychology  
-Castelnuovo, G., Pietrabissa, G., Cattivelli, R., Manzoni, G. M., & Molinari, E. (2016). Not Only Clinical Efficacy in Psychological Treatments: Clinical Psychology Must Promote Cost-Benefit, Cost-Effectiveness, and Cost-Utility Analysis. Frontiers in Psychology, 7:563, 1-4. ※EBP，cost-banefit  
-David, F. T. (2014). Evidence-Based Practice: Three-Legged Stool or Filter System?. the Clinical Psychologist, 67(3), 1-3. ※EBP，model  
-DiCenso, A., Bayley, L., & Haynes, R. B. (2009). Accessing pre-appraised evidence: fine-tuning the 5S model into a 6S model. Evidence-Based Nursing, 12(4),99-101. ※EBP，resources  
-Demner-Fushmane, D., Seckman, C., Fisher, C., Thoma, G. R. (2013). Continual Development of a Personalized Decision Support System. Studies in Health Technology and Informatics, 192, 175-179. ※EBP，system  
-Falzon, L., Davidson, K. W., & Bruns, D. (2010). Evidence Searching for Evidence-based Psychology Practice. Profesional Psychology: Research and Practice, 41(8), 550-557. ※EBP，search  
-福原俊一. (2006). 臨床研究者育成のための戦略とロード・マップ. 学術の動向, 8, 43-52. ※research  
-Gaudiano, B. A. & Miller, I .W. (2013). The evidence-based practice of psychotherapy: Facing the challenges that lie ahead. Clinical Psychology Review, 33, 813-824. ※EBP，research-practice gap  
-Gone, J. (2015). Reconciling evidence-based practice and cultural competence in mental health services: Introduction to a special issue. Transcultural Psychiatry, 52(2), 139-149. ※EBP，cultural competency  
-Goldfried, M. R. (2013). What should we expect from psychotherapy?. Clinical Psychology Review, 33, 862-869. ※EBP，research-practice gap  
-Greenhalgh, T., Howick, J., & Maskrey, N. (2014). Evidence based medicine: a movement in crisis? BMJ, 348:g3725, 1-7. ※EBM  
-Gyani, A., Shafran, R., Myles, P., & Rose, S. (2014). The Gap Between Science and Practice: How Therapists Make Their Clinical Decisions. Behavior Therapy, 45, 199-211. ※EBP，research-practice gap  
-Haddaway, N. R., Land, M., & Macura, B. (2017).  “A little learning is a dangerous thing”: A call for better understanding of the term ‘systematic review”. Environment International, 99, 356-360. ※review  
-原田隆之・高橋稔・笹川智子. (2010). 臨床心理学における神話 ─エビデンスに基づいた臨床心理学を目指して─. 目白大学 心理学研究, 6, 55-65. ※EBP  
-波多野正和・亀井浩行・岩田仲生 (2016). 統合失調症治療における持効性注射剤の 役割と今後の課題. Drug Delivery System, 31(3), 186-193. ※SDM  
-Heneghan, C., Mahtani, K. R., Goldacre, B., Godlee, F., Macdonald, H., & Jarvies, D. (2017). Evidence based medicine manifesto for better healthcare. Evidence Based Medicine, 22(4), 120-122. ※EBP，research  
-平井啓 (2016). 心理学研究におけるリサーチデザインの理想. 心理学評論, 59(1), 112-122 ※research  
-Hoffman, T. C., Montori, V. M., & Del Mar, C. (2014). The Connection Between Evidence-Based Medicine and Shared Decision Making. JAMA, 312(13), 1295-1296.
-Hoffman, T. C., Oxman, A. D., PA Ioannidis, J., Mohler, D., Lasserson, T., Tovey, D. I, Stein, K., Sutcliffe, K., Ravaud, P., Altman, D. G., Perera, R., & Glasziou, P. (2017). Enhancing the usability of systematic reviews by improving the consideration and description of interventions BMJ, 357:j2998, 1-8. ※review  
-Jensen-Doss, A. (2015). Practical, Evidence-Based Clinical Decision Making: Introduction to the Special Series. Cognitive and Behavioral Practice, 22, 1-4. ※evidence-based assessment  
-影山葉子. (2017). 看護における shared decision-making の実践とその責任 ―代理意思決定者としての家族への支援を通して. 同志社アメリカ研究, 53, 169-190. ※SDM  
-Kazdin, A. E. (2017). Addressing the treatment gap: A key challenge for extending evidence-based psychosocial interventions. Behaviour Research and Therapy, 88, 7-18. ※EBP，service gap  
-La Roche, M. J., & Christopher, M. S. (2009). Changing Paradigms from Empirically Supported Treatment to Evidence-Based Practice: A Cultural Perspective. Professional Psychology: Research & Practice, 40(4), 396-402. ※EBP，ESTs  
-Lilienfeld, S. O., Ritschel, L. A., Lynn, S. J., Cautin, R. L., & Latzman, R. D. (2013). Why many clinical psychologists are resistant to evidence-based practice: Root causes and constructive remedies. Clinical Psychology Review, 33, 883-900. ※EBP  
-Lilienfeld, S. O., Ritschel, L. A., Lynn, S. J., Cautin, R. L., & Latzman, R. D. (2014).  Why Ineffective Psychotherapies Appear to Work: A Taxonomy of Causes of Spurious Therapeutic Effectiveness. Perspectives on Psychological Science, 9(4), 355-387. ※EBP，bias  
-正木朋也・津谷喜一郎. (2006). エビデンスに基づく医療(EBM)の系譜と方向性: 保健医療評価に果たすコクラン共同計画の役割と未来. 日本評価研究, 6(1), 3-20. ※EBM，review  
-松見淳子(2016).エビデンスに基づく応用心理学的実践と科学者–実践家モデル ―教育・研究・実践の連携― ※EBP  
-松岡千代・濱吉美徳. (2010). エビデンスに基づく看護実践に関する看護師の認識と障壁 -質の高い老年看護実践を目指して-. RINCPC Bulletin, 17, 61-74. ※EBP，research-practice gap  
-Moriana, J. A., Gálvez-Lara, M., & Corpas, J. (2017). Psychological treatments for mental disorders in adults: A review of the evidence of leading international organizations. Clinical Psychology Review, 54, 29-43. ※EBP  
-Murad, M. H. (2017). Clinical Practice Guidelines: A Primer on Development and Dissemination. Mayo Clinic Proceedings, 92(3), 423-433. ※EBP, guidelines  
-Murada, M. H., Asi, N., Alsawas, M., & Alahdab, F. (2016). New evidence pyramid. Evidence-Based Medicine, 21, 125-127.※EBM，evidence  
-Munafò, M. R., Nosek, B. A., Bishop, D. V. M., Button, K. S., Chambers, C. D., du Sert, N. P., Simonsohn, U., Wagenmakers, E., Ware, J. J., & Loannidis, J. P. A. (2017). A manifesto for reproducible science. Nature Human Behavior, 1,1-9. ※reproducibility  
-太田えりか(2017). コクランにおけるシステマティックレビューの基礎 リスク・オブ・バイアスとメタアナリシス. 看護研究, 49(3), 173-188. ※review  
-佐々木淳 (2016). 臨床心理学の研究動向と課題 ―知を伝えることと受け止めることの観点から―. 教育心理学年報, 55, 101-115. ※research  
-Pearson, A., Jordan, Z., Lockwood, C. S., & Aromataris, E. C. (2015). Notions of quality and standards for qualitative research reporting. International Journal of Nursing Practice, 21(5), 670-676 ※research，qualitative study  
-Pearson, A., White, H., Bath-Hextall, F., Salmond, S., Apostolo, J., & Kirkpatrick P. (2015). A mixed-methods approach to systematic reviews. International Journal of Evidence-Based Healthcare, 13(3), 121-131. ※research，mixed-method  
-Petticrew, M., Rehfuess, E., Noyes, J., Higgins, J. P. T., Mayhew, A., Pantoja, T., Shemilt, I., & Sowden, A. (2013). Synthesizing evidence on complex interventions: how meta-analytical, qualitative, and mixed-method approaches can contribute. Journal of Clinical Epidemiology, 66, 1230-1243. ※EBP，evidence synthesis，complexity  
-Sackett, D. L., Rosenberg, W. M. C., Gray, J. A. M., Haynes, R. B., & Richardson, W. S. (1996). Evidence based medicine: what it is and what it isn’t. BMJ, 312, 71-72. ※EBM  
-Scott, S. D., Brett-MacLean, P., Archibald, M., Hartling, L. (2013). Protocol for a systematic review of the use of narrative storytelling and visual-arts-based approaches as knowledge translation tools in healthcare. Systematic Reviews, 2:19, 1-7. ※EBP，knowledge translation
-心理学評論(2016). 特集:心理学の再現可能性 ※reproducibility  
-Simpson‐Southward, C., Walle, G., & Hardy, G. E. (2017). How do we know what makes for “best practice” in clinical supervision for psychological therapists? A content analysis of supervisory models and approaches. Clinical Psychology & Psychotherapy, 1-18. ※EBP，supervision  
-Spring, B. (2007). Evidence-based practice in clinical psychology: what it is, why it matters; what you need to know. Journal of Clinical Psychology, 63(7), 611-631. ※EBP  
-Steglitz, J., Wright, J. D., Warnick, J. L., Hoffman, S. A., Johnston, W., & Spring, B. (2015). Evidence-based practice. In International Encyclopedia of Social and Behavioral Sciences(2nd ed), 8, 332-338. London: Oxford Elsevier. ※EBP  
-Stevens, B., Hyde, J., Knight, R., Shires, A., & Alexander, R. (2015). Competency-based training and assessment in Australian postgraduate clinical psychology education. Clinical Psychologist, 1-12. ※EBP，education  
-Turner, T., Green, S., Tovey, D., McDonald, S., Soares-Weiser, K., Pestridge, C.,  & Elliott, J(2017). Producing Cochrane systematic reviews—a qualitative study of current approaches and opportunities for innovation and improvement. Systematic Reviews, 6:147, 1-11. ※review  
+  * [Beck, J. G., Castonguay, L. G., Chronis-Tuscano, A., Klonsky, E. D., McGinn, L. K., & Youngstrom, E. A. (2014). Principles for Training in Evidence-Based Psychology: Recommendations for the Graduate Curricula in Clinical Psychology. Clinical Psychology Science and Practice, 21(4), 410-424.](http://onlinelibrary.wiley.com/doi/10.1111/cpsp.12079/abstract)　※EBP，education  
+[Blease, C. R., Lilienfeld, S. O., & Kelley, J. M. (2016). Evidence-Based Practice and Psychological Treatments: The Imperatives of Informed Consent.  Frontiers in Psychology, 7:1170, 1-5.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4979245/)　※EBP，informed consent  
+[Boesen, K., Saiz, L. C., Erviti, J., Storebo, O. J., Gluud, C., Gotzsche, P. C., & Jorgensen, K. J. (2017). The Cochrane Collaboration withdraws a review on methylphenidate for adults with attention deficit hyperactivity disorder. Evidence Based Medicine, 22(4), 143-147.](http://ebm.bmj.com/content/22/4/143.long)　※EBP，research  
+[Bouffard, M., & Reid, G. (2012). The Good, the Bad, and the Ugly of Evidence-Based Practice. Adapted Physical Activity Quarterly, 29, 1-24.](https://www.ncbi.nlm.nih.gov/pubmed/22190051)　※EBP，criticism  
+[Bradley, H. A., Rucklidge, J. J., & Mulder, R. T. (2017). A systematic review of trial registration and selective outcome reporting in psychotherapy randomized controlled trials. Acta Psychiatr Scand, 135(1), 65-77.](http://onlinelibrary.wiley.com/doi/10.1111/acps.12647/abstract)　※systematic review  
+[Bell, Z., Seager, I., Shader, T., & Fristad, M. A. (2017). Updating the Textbook: A Novel Approach to Training Graduate Students in Evidence-Based Youth Practices. Cognitive and Behavioral Practice, 1-6.](http://www.sciencedirect.com/science/article/pii/S1077722917300500)　※EBP, training  
+[Castelnuovo, G. (2017). New and Old Adventures of Clinical Health Psychology in the Twenty-First Century: Standing on the Shoulders of Giants. Frontiers in Psychology, 8:1214, 1-7.](http://journal.frontiersin.org/article/10.3389/fpsyg.2017.01214/full)　※EBP，clinical health psychology  
+[Castelnuovo, G., Pietrabissa, G., Cattivelli, R., Manzoni, G. M., & Molinari, E. (2016). Not Only Clinical Efficacy in Psychological Treatments: Clinical Psychology Must Promote Cost-Benefit, Cost-Effectiveness, and Cost-Utility Analysis. Frontiers in Psychology, 7:563, 1-4.](http://journal.frontiersin.org/article/10.3389/fpsyg.2016.00563/full)　※EBP，cost-banefit  
+[David, F. T. (2014). Evidence-Based Practice: Three-Legged Stool or Filter System?. the Clinical Psychologist, 67(3), 1-3.](https://www.div12.org/tcp-archive/) ※EBP，model  
+[DiCenso, A., Bayley, L., & Haynes, R. B. (2009). Accessing pre-appraised evidence: fine-tuning the 5S model into a 6S model. Evidence-Based Nursing, 12(4),99-101.](http://ebn.bmj.com/content/12/4/99.2.full)　※EBP，resources  
+[Demner-Fushmane, D., Seckman, C., Fisher, C., Thoma, G. R. (2013). Continual Development of a Personalized Decision Support System. Studies in Health Technology and Informatics, 192, 175-179.](http://ebooks.iospress.nl/publication/33981)　※EBP，system  
+[Falzon, L., Davidson, K. W., & Bruns, D. (2010). Evidence Searching for Evidence-based Psychology Practice. Profesional Psychology: Research and Practice, 41(8), 550-557.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3077562/)　※EBP，search  
+福原俊一. (2006). [臨床研究者育成のための戦略とロード・マップ. 学術の動向, 8, 43-52.](https://www.jstage.jst.go.jp/article/tits1996/11/8/11_8_43/_article/-char/ja/)　※research  
+[Gaudiano, B. A. & Miller, I .W. (2013). The evidence-based practice of psychotherapy: Facing the challenges that lie ahead. Clinical Psychology Review, 33, 813-824.](http://www.sciencedirect.com/science/article/pii/S0272735813000676)　※EBP，research-practice gap  
+[Gone, J. (2015). Reconciling evidence-based practice and cultural competence in mental health services: Introduction to a special issue. Transcultural Psychiatry, 52(2), 139-149.](http://journals.sagepub.com/doi/abs/10.1177/1363461514568239)　※EBP，cultural competency  
+[Goldfried, M. R. (2013). What should we expect from psychotherapy?. Clinical Psychology Review, 33, 862-869.](http://www.sciencedirect.com/science/article/pii/S0272735813000718)　※EBP，research-practice gap  
+[Greenhalgh, T., Howick, J., & Maskrey, N. (2014). Evidence based medicine: a movement in crisis? BMJ, 348:g3725, 1-7.](http://www.bmj.com/content/348/bmj.g3725)　※EBM  
+[Gyani, A., Shafran, R., Myles, P., & Rose, S. (2014). The Gap Between Science and Practice: How Therapists Make Their Clinical Decisions. Behavior Therapy, 45, 199-211.](http://www.sciencedirect.com/science/article/pii/S0005789413000981)　※EBP，research-practice gap  
+[Haddaway, N. R., Land, M., & Macura, B. (2017).  “A little learning is a dangerous thing”: A call for better understanding of the term ‘systematic review”. Environment International, 99, 356-360.](http://www.sciencedirect.com/science/article/pii/S0160412016303634)　※systematic review  
+[原田隆之・高橋稔・笹川智子. (2010). 臨床心理学における神話 ─エビデンスに基づいた臨床心理学を目指して─. 目白大学 心理学研究, 6, 55-65.](http://ci.nii.ac.jp/naid/110007602984)　※EBP  
+[波多野正和・亀井浩行・岩田仲生 (2016). 統合失調症治療における持効性注射剤の 役割と今後の課題. Drug Delivery System, 31(3), 186-193.](https://www.jstage.jst.go.jp/article/dds/31/3/31_186/_article/-char/ja/)　※SDM  
+[Heneghan, C., Mahtani, K. R., Goldacre, B., Godlee, F., Macdonald, H., & Jarvies, D. (2017). Evidence based medicine manifesto for better healthcare. Evidence Based Medicine, 22(4), 120-122.](http://www.bmj.com/content/357/bmj.j2973)　※EBP，research  
+[平井啓 (2016). 心理学研究におけるリサーチデザインの理想. 心理学評論, 59(1), 112-122](http://team1mile.com/sjpr59-1/contents_comment/hirai2016/)　※research  
+[Hoffman, T. C., Montori, V. M., & Del Mar, C. (2014). The Connection Between Evidence-Based Medicine and Shared Decision Making. JAMA, 312(13), 1295-1296.](http://jamanetwork.com/journals/jama/article-abstract/1910118)　※EDM，SDM
+[Hoffman, T. C., Oxman, A. D., PA Ioannidis, J., Mohler, D., Lasserson, T., Tovey, D. I, Stein, K., Sutcliffe, K., Ravaud, P., Altman, D. G., Perera, R., & Glasziou, P. (2017). Enhancing the usability of systematic reviews by improving the consideration and description of interventions BMJ, 357:j2998, 1-8.](http://www.bmj.com/content/358/bmj.j2998)　※review  
+[Jensen-Doss, A. (2015). Practical, Evidence-Based Clinical Decision Making: Introduction to the Special Series. Cognitive and Behavioral Practice, 22, 1-4.](http://www.sciencedirect.com/science/article/pii/S1077722914001011?via%3Dihub)　※evidence-based assessment  
+[影山葉子. (2017). 看護における shared decision-making の実践とその責任 ―代理意思決定者としての家族への支援を通して. 同志社アメリカ研究, 53, 169-190.](https://doors.doshisha.ac.jp/opac/opac_detail_md/?reqCode=fromlist&lang=0&amode=MD10000&bibid=24758&opkey=B150223041916574&start=1&listnum=0&place=&totalnum=1&list_disp=20&list_sort=0&cmode=0&chk_st=0&check=0)　※SDM  
+[Kazdin, A. E. (2017). Addressing the treatment gap: A key challenge for extending evidence-based psychosocial interventions. Behaviour Research and Therapy, 88, 7-18.](http://www.sciencedirect.com/science/article/pii/S0005796716300997)　※EBP，service gap  
+[La Roche, M. J., & Christopher, M. S. (2009). Changing Paradigms from Empirically Supported Treatment to Evidence-Based Practice: A Cultural Perspective. Professional Psychology: Research & Practice, 40(4), 396-402.](http://psycnet.apa.org/doiLanding?doi=10.1037%2Fa0015240)　※EBP，ESTs  
+[Lilienfeld, S. O., Ritschel, L. A., Lynn, S. J., Cautin, R. L., & Latzman, R. D. (2013). Why many clinical psychologists are resistant to evidence-based practice: Root causes and constructive remedies. Clinical Psychology Review, 33, 883-900.](http://www.sciencedirect.com/science/article/pii/S0272735813000494)　※EBP  
+[Lilienfeld, S. O., Ritschel, L. A., Lynn, S. J., Cautin, R. L., & Latzman, R. D. (2014).  Why Ineffective Psychotherapies Appear to Work: A Taxonomy of Causes of Spurious Therapeutic Effectiveness. Perspectives on Psychological Science, 9(4), 355-387.](http://journals.sagepub.com/doi/abs/10.1177/1745691614535216)　※EBP，bias  
+[正木朋也・津谷喜一郎. (2006). エビデンスに基づく医療(EBM)の系譜と方向性: 保健医療評価に果たすコクラン共同計画の役割と未来. 日本評価研究, 6(1), 3-20.](https://www.jstage.jst.go.jp/article/jjoes2001/6/1/6_1_3/_article/references/-char/ja/)　※EBM，review  
+[松見淳子(2016).エビデンスに基づく応用心理学的実践と科学者–実践家モデル ―教育・研究・実践の連携―](http://ci.nii.ac.jp/naid/40020897216)　※EBP  
+松岡千代・濱吉美徳. (2010). [エビデンスに基づく看護実践に関する看護師の認識と障壁 -質の高い老年看護実践を目指して-. RINCPC Bulletin, 17, 61-74.](http://ci.nii.ac.jp/naid/40017097168)　※EBP，research-practice gap  
+[Moriana, J. A., Gálvez-Lara, M., & Corpas, J. (2017). Psychological treatments for mental disorders in adults: A review of the evidence of leading international organizations. Clinical Psychology Review, 54, 29-43.](http://www.sciencedirect.com/science/article/pii/S0272735816302896)　※EBP  
+[Murad, M. H. (2017). Clinical Practice Guidelines: A Primer on Development and Dissemination. Mayo Clinic Proceedings, 92(3), 423-433.](http://www.mayoclinicproceedings.org/article/S0025-6196(17)30025-3/fulltext)　※EBP, guidelines  
+[Murada, M. H., Asi, N., Alsawas, M., & Alahdab, F. (2016). New evidence pyramid. Evidence-Based Medicine, 21, 125-127.](http://ebm.bmj.com/content/early/2016/06/23/ebmed-2016-110401.full)　※EBM，evidence  
+[Munafò, M. R., Nosek, B. A., Bishop, D. V. M., Button, K. S., Chambers, C. D., du Sert, N. P., Simonsohn, U., Wagenmakers, E., Ware, J. J., & Loannidis, J. P. A. (2017). A manifesto for reproducible science. Nature Human Behavior, 1,1-9.](https://www.nature.com/articles/s41562-016-0021)　※reproducibility  
+[太田えりか(2017). コクランにおけるシステマティックレビューの基礎 リスク・オブ・バイアスとメタアナリシス. 看護研究, 49(3), 173-188.](http://medicalfinder.jp/doi/abs/10.11477/mf.1681201247)　※review  
+[佐々木淳 (2016). 臨床心理学の研究動向と課題 ―知を伝えることと受け止めることの観点から―. 教育心理学年報, 55, 101-115.](https://www.jstage.jst.go.jp/article/arepj/55/0/55_101/_article/-char/ja/)　※research  
+[Pearson, A., Jordan, Z., Lockwood, C. S., & Aromataris, E. C. (2015). Notions of quality and standards for qualitative research reporting. International Journal of Nursing Practice, 21(5), 670-676](http://onlinelibrary.wiley.com/doi/10.1111/ijn.12331/abstract)　※research，qualitative study  
+[Pearson, A., White, H., Bath-Hextall, F., Salmond, S., Apostolo, J., & Kirkpatrick P. (2015). A mixed-methods approach to systematic reviews. International Journal of Evidence-Based Healthcare, 13(3), 121-131.](http://journals.lww.com/ijebh/Fulltext/2015/09000/A_mixed_methods_approach_to_systematic_reviews.3.aspx)　※research，mixed-method  
+[Petticrew, M., Rehfuess, E., Noyes, J., Higgins, J. P. T., Mayhew, A., Pantoja, T., Shemilt, I., & Sowden, A. (2013). Synthesizing evidence on complex interventions: how meta-analytical, qualitative, and mixed-method approaches can contribute. Journal of Clinical Epidemiology, 66, 1230-1243.](http://www.jclinepi.com/article/S0895-4356(13)00246-1/fulltext)　※EBP，evidence synthesis  
+[Sackett, D. L., Rosenberg, W. M. C., Gray, J. A. M., Haynes, R. B., & Richardson, W. S. (1996). Evidence based medicine: what it is and what it isn’t. BMJ, 312, 71-72.](http://www.bmj.com/content/312/7023/71) ※EBM  
+[Scott, S. D., Brett-MacLean, P., Archibald, M., Hartling, L. (2013). Protocol for a systematic review of the use of narrative storytelling and visual-arts-based approaches as knowledge translation tools in healthcare. Systematic Reviews, 2:19, 1-7.](https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/2046-4053-2-19)　※EBP，knowledge translation
+[心理学評論(2016). 特集:心理学の再現可能性](http://team1mile.com/sjpr59-1/)　※reproducibility  
+[Simpson‐Southward, C., Walle, G., & Hardy, G. E. (2017). How do we know what makes for “best practice” in clinical supervision for psychological therapists? A content analysis of supervisory models and approaches. Clinical Psychology & Psychotherapy, 1-18.](http://onlinelibrary.wiley.com/doi/10.1002/cpp.2084/abstract)　※EBP，supervision  
+[Spring, B. (2007). Evidence-based practice in clinical psychology: what it is, why it matters; what you need to know. Journal of Clinical Psychology, 63(7), 611-631.](http://onlinelibrary.wiley.com/doi/10.1002/jclp.20373/abstract)　※EBP  
+[Steglitz, J., Wright, J. D., Warnick, J. L., Hoffman, S. A., Johnston, W., & Spring, B. (2015). Evidence-based practice. In International Encyclopedia of Social and Behavioral Sciences(2nd ed), 8, 332-338. London: Oxford Elsevier.](https://www.researchgate.net/publication/276203294_Evidence-Based_Practice)　※EBP  
+[Stevens, B., Hyde, J., Knight, R., Shires, A., & Alexander, R. (2015). Competency-based training and assessment in Australian postgraduate clinical psychology education. Clinical Psychologist, 1-12.](http://onlinelibrary.wiley.com/doi/10.1111/cp.12061/abstract)　※EBP，education  
+[Turner, T., Green, S., Tovey, D., McDonald, S., Soares-Weiser, K., Pestridge, C.,  & Elliott, J(2017). Producing Cochrane systematic reviews—a qualitative study of current approaches and opportunities for innovation and improvement. Systematic Reviews, 6:147, 1-11.](https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/s13643-017-0542-3/open-peer-review)　※review  
 
 <p style="margin-bottom:2em;">
 　**<font face="ヒラギノ角ゴ Pro">書籍</font>**  
 
-  * 福原俊一(2017). 臨床研究の道標 第2版〈上巻〉〈下巻〉. 特定非営利活動法人 健康医療評価研究機構. ※research  
-福原俊一(2015). リサーチ・クエスチョンの作り方 第3版. 特定非営利活動法人 健康医療評価研究機構. ※research  
-原田隆之(2015). 心理職のためのエビデンス・ベイスト・プラクティス入門―エビデンスを「まなぶ」「つくる」「つかう」. 金剛出版. ※EBP  
-Houser, J., & Oman, K. S. (Ed.)(2011).  EVIDENCE-BASED PRACTICE An Implementation Guide for Healthcare Organizations. Canada:Jones & Bartlett Learning. (オンラインで取得可)  
-Hoffmann, T., Bennett, S., & Del Mar, C. (2017). Evidence-Based Practice Across the Health Professions. :Elsevier. ※EBP  
-牧本清子(2014). よくわかる看護研究論文のクリティーク―研究手法別のチェックシートで学ぶ. 日本看護協会出版会. ※research  
-Melnyk, B., & Fineout-Overholt, E. (2014). Evidence-Based Practice in Nursing & Healthcare: A Guide to Best Practice. Wolters Kluswer｜Lippincott Williams & Wilins: 　(第2版はオンラインで取得可)  
-村井 潤一郎・橋本 貴充(編著)(2017). 心理学のためのサンプルサイズ設計入門. 講談社. ※research  
-斎藤清二(2016). 医療におけるナラティブとエビデンス 改訂版 ──対立から調和へ. 遠見書房. ※EBP  
+  * [福原俊一(2017). 臨床研究の道標 第2版〈上巻〉〈下巻〉. 特定非営利活動法人 健康医療評価研究機構.](https://goo.gl/HLzUkQ)　※research  
+[福原俊一(2015). リサーチ・クエスチョンの作り方 第3版. 特定非営利活動法人 健康医療評価研究機構.](https://goo.gl/HZXs3S)　※research  
+[原田隆之(2015). 心理職のためのエビデンス・ベイスト・プラクティス入門―エビデンスを「まなぶ」「つくる」「つかう」. 金剛出版.](https://goo.gl/UQg8z4)　※EBP  
+[Houser, J., & Oman, K. S. (Ed.)(2011).  EVIDENCE-BASED PRACTICE An Implementation Guide for Healthcare Organizations. Canada:Jones & Bartlett Learning.](https://goo.gl/vVXBWs) (オンラインで取得可)  
+[Hoffmann, T., Bennett, S., & Del Mar, C. (2017). Evidence-Based Practice Across the Health Professions. :Elsevier.](https://goo.gl/oLnRFs)　※EBP  
+[牧本清子(2014). よくわかる看護研究論文のクリティーク―研究手法別のチェックシートで学ぶ.](https://goo.gl/piUSfH) 日本看護協会出版会.　※research  
+[Melnyk, B., & Fineout-Overholt, E. (2014). Evidence-Based Practice in Nursing & Healthcare: A Guide to Best Practice. Wolters Kluswer｜Lippincott Williams & Wilins](https://goo.gl/eKARDx)　※EBP 　(第2版はオンラインで取得可)  
+[村井 潤一郎・橋本 貴充(編著)(2017). 心理学のためのサンプルサイズ設計入門. 講談社.](https://goo.gl/bwL6mk)　※research  
+[斎藤清二(2016). 医療におけるナラティブとエビデンス 改訂版 ──対立から調和へ. 遠見書房.](https://goo.gl/sTN95H)　※EBP  
 
 <p style="margin-bottom:2em;">
 　**<font face="ヒラギノ角ゴ Pro">記事</font>**  
 
   * 20170804  
-Wayant, C. An update to the Evidence-Based Medicine Pyramid: why and how. Student 4 Best Evidence.  
+Wayant, C. [An update to the Evidence-Based Medicine Pyramid: why and how.](https://goo.gl/J1oR1C) Student 4 Best Evidence.  
 20170803  
-Meadows, A. What Does Transparent Peer Review Mean and Why is it Important?. The Scholarly Kitchen.  
+Meadows, A. [What Does Transparent Peer Review Mean and Why is it Important?.](https://goo.gl/kGF718) The Scholarly Kitchen.  
 20170802  
-Staniszewska, S. &  Stephens, R. New guidance for reporting patient and public involvement in research. BioMed Central blog network On Medicine.  
+Staniszewska, S. &  Stephens, R. [New guidance for reporting patient and public involvement in research.](https://goo.gl/qxKcuX) BioMed Central blog network On Medicine.  
 20170801  
-Turner, T., & Soares-Weiser, K. Ensuring Cochrane Reviews remain trusted, and trustworthy, evidence in an era of fake news. BioMed Central blog network On Medicine.  
+Turner, T., & Soares-Weiser, K. [Ensuring Cochrane Reviews remain trusted, and trustworthy, evidence in an era of fake news.](https://goo.gl/c5Tj9u) BioMed Central blog network On Medicine.  
 20170729  
-Chivers, T. These People Are Trying To Fix A Huge Problem In Science. BuzzFeed News.  
+Chivers, T. [These People Are Trying To Fix A Huge Problem In Science.](https://goo.gl/7yvuZ7) BuzzFeed News.  
 20170719  
-Pussegoda, K. Quality of systematic reviews is variable: what guidelines are appropriate?. BioMed Central blog network On Medicine.  
+Pussegoda, K. [Quality of systematic reviews is variable: what guidelines are appropriate?.](https://goo.gl/wXt3TR) BioMed Central blog network On Medicine.  
 20170528  
 津川友介.[科学者はどのように「不完全なエビデンス」を国民に伝えるべきか？](https://healthpolicyhealthecon.com/2017/05/28/imperfect-evidence/) 医療政策学×医療経済学  
 
