@@ -280,7 +280,7 @@
     [Trip Database](https://www.tripdatabase.com/)｜UK，システマティック・レビューから1次研究，ガイドラインまで検索可能　※free  
     [Web of Science](http://ip-science.thomsonreuters.jp/products/web-of-science/)｜Clarivate Analytics，  
 
-　**<font face="ヒラギノ角ゴ Pro">学習資源/報告ガイドライン</font>**   
+　**<font face="ヒラギノ角ゴ Pro">学習資源/ガイドライン</font>**   
 
   * EBP｜海外  
 [Cochrane Training](http://training.cochrane.org/)｜Cochrane，Gloval Network  
@@ -304,22 +304,34 @@ AGREE -ガイドライン評価｜CARE -症例研究｜CONSORT -無作為化比�
 **<font face="ヒラギノ角ゴ Pro">研究</font>**   
 
   * OpenScience  
-[Open Science Framework(OSF)](https://osf.io/)｜Center for Open Science(COS)  
-[PsyArXiv](https://osf.io/preprints/psyarxiv)｜COS，preprint(事前出版)  
-[Psychological Science Submission Guidelines](http://www.psychologicalscience.org/publications/psychological_science/ps-submissions)(Open Practices)  
+[Open Science Framework(OSF)](https://osf.io/)｜Center for Open Science(COS)，NPO，US  
+[PsyArXiv](https://osf.io/preprints/psyarxiv)｜COS，US，preprint(事前出版)  
+[Psychological Science Submission Guidelines](http://www.psychologicalscience.org/publications/psychological_science/ps-submissions#OPEN)(Accepted Manuscripts)｜Pschological Science  
 [The Peer Reviewers’ Openness Initiative](https://opennessinitiative.org/)  
 [Tracking switched outcomes in clinical trials](http://compare-trials.org/)｜EBM DataLab：University of Oxford，UK  
-[Wellcome Open Research](https://wellcomeopenresearch.org/)  
+[Transparency and Openness Promotion (TOP) Guidelines](https://cos.io/our-services/top-guidelines/)｜COS，US  
+[Wellcome Open Research](https://wellcomeopenresearch.org/)｜UK  
+[1science](http://www.1science.com/index.html)｜Canada，オープンアクセス関連サービス  
 
   * Pre-registration(事前登録)  
-[AsPredicted](https://aspredicted.org/index.php)
-[Preregistration Challenge](https://cos.io/prereg/)｜COS  
-[Registered Reports](https://cos.io/rr/)｜COS  
+[AsPredicted](https://aspredicted.org/index.php)｜US
+[Preregistration Challenge](https://cos.io/prereg/)｜COS，NPO，US  
+[PROSPERO](https://www.crd.york.ac.uk/PROSPERO/)｜University of York，UK
+[Registered Reports](https://cos.io/rr/)｜COS，NPO，US  
 
   * Replicability(再現可能性)/Reproducibility(再生可能性)  
 Definition(定義)：[Replicability vs Reproducibility](http://www.replicability.tau.ac.il/index.php/replicability-in-science/replicability-vs-reproducibility.html)｜Replicability Research Group：Tel Aviv University，
 Israel  
-国里愛彦(2017).[統計解析の再現可能性を高める取り組み.](https://www.slideshare.net/YoshihikoKunisato/ss-77835559) SlideShare.  
+国里愛彦(2017).[統計解析の再現可能性を高める取り組み.](https://www.slideshare.net/YoshihikoKunisato/ss-77835559) SlideShare.
+
+  * Sharing Data/Digital Repository  
+[Dataverse](https://dataverse.org/)｜Harvard University，US  
+[Dryad](http://datadryad.org/)｜NPO，US  
+[figshare](https://figshare.com/)｜  
+[Inter-university Consortium for Political and Social Research (ICPSR)](https://www.icpsr.umich.edu/icpsrweb/)｜University of Michigan，US  
+[Odum Institute Data Archive](http://odum.unc.edu/archive/resources/)｜University of North Carolina，US  
+[OpenTrials](https://opentrials.net/)｜Open Knowledge International，UK  
+[Qualitative Data Repository (QDR)](https://www.insidehighered.com/blogs/rethinking-research/benefits-and-challenges-making-qualitative-research-more-transparent)｜Syracuse University，US  
 
 <p style="margin-bottom:2em;">
 　**<font face="ヒラギノ角ゴ Pro">論文</font>**  
@@ -336,7 +348,7 @@ Israel
 [DiCenso, A., Bayley, L., & Haynes, R. B. (2009). Accessing pre-appraised evidence: fine-tuning the 5S model into a 6S model. Evidence-Based Nursing, 12(4),99-101.](http://ebn.bmj.com/content/12/4/99.2.full)　※EBP，resources  
 [Demner-Fushmane, D., Seckman, C., Fisher, C., Thoma, G. R. (2013). Continual Development of a Personalized Decision Support System. Studies in Health Technology and Informatics, 192, 175-179.](http://ebooks.iospress.nl/publication/33981)　※EBP，system  
 [Falzon, L., Davidson, K. W., & Bruns, D. (2010). Evidence Searching for Evidence-based Psychology Practice. Profesional Psychology: Research and Practice, 41(8), 550-557.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3077562/)　※EBP，search  
-福原俊一. (2006). [臨床研究者育成のための戦略とロード・マップ. 学術の動向, 8, 43-52.](https://www.jstage.jst.go.jp/article/tits1996/11/8/11_8_43/_article/-char/ja/)　※research  
+[福原俊一. (2006). 臨床研究者育成のための戦略とロード・マップ. 学術の動向, 8, 43-52.](https://www.jstage.jst.go.jp/article/tits1996/11/8/11_8_43/_article/-char/ja/)　※research  
 [Gaudiano, B. A. & Miller, I .W. (2013). The evidence-based practice of psychotherapy: Facing the challenges that lie ahead. Clinical Psychology Review, 33, 813-824.](http://www.sciencedirect.com/science/article/pii/S0272735813000676)　※EBP，research-practice gap  
 [Gone, J. (2015). Reconciling evidence-based practice and cultural competence in mental health services: Introduction to a special issue. Transcultural Psychiatry, 52(2), 139-149.](http://journals.sagepub.com/doi/abs/10.1177/1363461514568239)　※EBP，cultural competency  
 [Goldfried, M. R. (2013). What should we expect from psychotherapy?. Clinical Psychology Review, 33, 862-869.](http://www.sciencedirect.com/science/article/pii/S0272735813000718)　※EBP，research-practice gap  
@@ -368,7 +380,7 @@ Israel
 [Pearson, A., White, H., Bath-Hextall, F., Salmond, S., Apostolo, J., & Kirkpatrick P. (2015). A mixed-methods approach to systematic reviews. International Journal of Evidence-Based Healthcare, 13(3), 121-131.](http://journals.lww.com/ijebh/Fulltext/2015/09000/A_mixed_methods_approach_to_systematic_reviews.3.aspx)　※research，mixed-method  
 [Petticrew, M., Rehfuess, E., Noyes, J., Higgins, J. P. T., Mayhew, A., Pantoja, T., Shemilt, I., & Sowden, A. (2013). Synthesizing evidence on complex interventions: how meta-analytical, qualitative, and mixed-method approaches can contribute. Journal of Clinical Epidemiology, 66, 1230-1243.](http://www.jclinepi.com/article/S0895-4356(13)00246-1/fulltext)　※EBP，evidence synthesis  
 [Sackett, D. L., Rosenberg, W. M. C., Gray, J. A. M., Haynes, R. B., & Richardson, W. S. (1996). Evidence based medicine: what it is and what it isn’t. BMJ, 312, 71-72.](http://www.bmj.com/content/312/7023/71) ※EBM  
-[Scott, S. D., Brett-MacLean, P., Archibald, M., Hartling, L. (2013). Protocol for a systematic review of the use of narrative storytelling and visual-arts-based approaches as knowledge translation tools in healthcare. Systematic Reviews, 2:19, 1-7.](https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/2046-4053-2-19)　※EBP，knowledge translation
+[Scott, S. D., Brett-MacLean, P., Archibald, M., Hartling, L. (2013). Protocol for a systematic review of the use of narrative storytelling and visual-arts-based approaches as knowledge translation tools in healthcare. Systematic Reviews, 2:19, 1-7.](https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/2046-4053-2-19)　※EBP，knowledge translation  
 [心理学評論(2016). 特集:心理学の再現可能性](http://team1mile.com/sjpr59-1/)　※reproducibility  
 [Simpson‐Southward, C., Walle, G., & Hardy, G. E. (2017). How do we know what makes for “best practice” in clinical supervision for psychological therapists? A content analysis of supervisory models and approaches. Clinical Psychology & Psychotherapy, 1-18.](http://onlinelibrary.wiley.com/doi/10.1002/cpp.2084/abstract)　※EBP，supervision  
 [Spring, B. (2007). Evidence-based practice in clinical psychology: what it is, why it matters; what you need to know. Journal of Clinical Psychology, 63(7), 611-631.](http://onlinelibrary.wiley.com/doi/10.1002/jclp.20373/abstract)　※EBP  
@@ -392,13 +404,19 @@ Israel
 <p style="margin-bottom:2em;">
 　**<font face="ヒラギノ角ゴ Pro">記事</font>**  
 
-  * 20170804  
+  * 20170809  
+<span style="color: red; ">NEW!</span> Elman, C. & Kapiszewski, D. [Benefits and Challenges of Making Qualitative Research More Transparent.](https://goo.gl/vvZU3H) Inside Higher ED.
+20170805
+Whitaker, K. [Showing your working: a how to guide to reproducible research.](https://goo.gl/QFwrsa) figshare.  
+20170804  
 Wayant, C. [An update to the Evidence-Based Medicine Pyramid: why and how.](https://goo.gl/J1oR1C) Student 4 Best Evidence.  
 20170803  
 Meadows, A. [What Does Transparent Peer Review Mean and Why is it Important?.](https://goo.gl/kGF718) The Scholarly Kitchen.  
+Wagenmakers, EJ. [Redefine Statistical Significance Part I: Sleep Trolls & Red Herrings.](https://www.bayesianspectacles.org/redefine-statistical-significance-part-i-sleep-trolls-red-herrings/) BayesianSpectacles.  
 20170802  
 Staniszewska, S. &  Stephens, R. [New guidance for reporting patient and public involvement in research.](https://goo.gl/qxKcuX) BioMed Central blog network On Medicine.  
 20170801  
+<span style="color: red; ">NEW!</span> American Psychological Association. [APA Journals Program Collaborates with Center for Open Science to Advance Open Science Practices in Psychological Research.](http://www.apa.org/news/press/releases/2017/08/open-science.aspx)  
 Turner, T., & Soares-Weiser, K. [Ensuring Cochrane Reviews remain trusted, and trustworthy, evidence in an era of fake news.](https://goo.gl/c5Tj9u) BioMed Central blog network On Medicine.  
 20170729  
 Chivers, T. [These People Are Trying To Fix A Huge Problem In Science.](https://goo.gl/7yvuZ7) BuzzFeed News.  
