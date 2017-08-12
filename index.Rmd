@@ -295,14 +295,13 @@ AGREE -ガイドライン評価｜CARE -症例研究｜CONSORT -無作為化比�
 
   * EBP｜日本  
 [AHEADMAP](https://aheadmap.jimdo.com/)  
-行動療法研究. (2014).  
-[GRADE システム.](http://www.grade-jpn.com/) 相原内科医院.
-[行動療法研究における研究報告に関するガイドライン](http://jabt.umin.ne.jp/j/activities/3-6journal.html)｜日本認知・行動療法学会.  
+[GRADE システム.](http://www.grade-jpn.com/) 相原内科医院.  
+行動療法研究. (2014).  [行動療法研究における研究報告に関するガイドライン](http://jabt.umin.ne.jp/j/activities/3-6journal.html)｜日本認知・行動療法学会.  
 奥村泰之. [臨床疫学研究における報告の質向上のための統計学の研究会](http://blue.zero.jp/yokumura/workshop.html)  
 
   * R  
 国里愛彦(2017).[臨床心理学におけるR入門: データハンドリングから統計解析まで.](https://www.slideshare.net/YoshihikoKunisato/r-74207682) SlideShare.  
-[swirl](http://swirlstats.com/)
+[swirl](http://swirlstats.com/)  
 [Try R](http://tryr.codeschool.com/levels/1/challenges/5)  
 
 **<font face="ヒラギノ角ゴ Pro">研究</font>**   
@@ -395,15 +394,15 @@ Definition(定義)：[Replicability vs Reproducibility](http://www.replicability
 <p style="margin-bottom:2em;">
 　**<font face="ヒラギノ角ゴ Pro">書籍</font>**  
 
-  * [Chambers, C. (2017). The Seven Deadly Sins of Psychology: A Manifesto for Reforming the Culture of Scientific Practice. Princeton University Press.](https://goo.gl/Fyo9Zm) ※research  
+  * <span style="color: red; ">NEW!</span> [Chambers, C. (2017). The Seven Deadly Sins of Psychology: A Manifesto for Reforming the Culture of Scientific Practice. Princeton University Press.](https://goo.gl/Fyo9Zm) ※research  
 [福原俊一(2017). 臨床研究の道標 第2版〈上巻〉〈下巻〉. 特定非営利活動法人 健康医療評価研究機構.](https://goo.gl/HLzUkQ)　※research  
 [福原俊一(2015). リサーチ・クエスチョンの作り方 第3版. 特定非営利活動法人 健康医療評価研究機構.](https://goo.gl/HZXs3S)　※research  
 [原田隆之(2015). 心理職のためのエビデンス・ベイスト・プラクティス入門―エビデンスを「まなぶ」「つくる」「つかう」. 金剛出版.](https://goo.gl/UQg8z4)　※EBP  
-[Houser, J., & Oman, K. S. (Ed.)(2011).  EVIDENCE-BASED PRACTICE An Implementation Guide for Healthcare Organizations. Canada:Jones & Bartlett Learning.](https://goo.gl/vVXBWs) (オンラインで取得可)  
+<span style="color: red; ">NEW!</span> [Houser, J., & Oman, K. S. (Ed.)(2011).  EVIDENCE-BASED PRACTICE An Implementation Guide for Healthcare Organizations. Canada:Jones & Bartlett Learning.](https://goo.gl/vVXBWs)   
 [Greenhalgh, T. (2017). How to Implement Evidence-Based Healthcare. Wiley-Blackwell.](https://goo.gl/s3u1Bo) ※EBP  
 [Hoffmann, T., Bennett, S., & Del Mar, C. (2017). Evidence-Based Practice Across the Health Professions. Elsevier.](https://goo.gl/oLnRFs)　※EBP  
 [牧本清子(2014). よくわかる看護研究論文のクリティーク―研究手法別のチェックシートで学ぶ.](https://goo.gl/piUSfH) 日本看護協会出版会.　※research  
-[Melnyk, B., & Fineout-Overholt, E. (2014). Evidence-Based Practice in Nursing & Healthcare: A Guide to Best Practice. Wolters Kluswer｜Lippincott Williams & Wilins](https://goo.gl/eKARDx)　※EBP 　(第2版はオンラインで取得可)  
+[Melnyk, B., & Fineout-Overholt, E. (2014). Evidence-Based Practice in Nursing & Healthcare: A Guide to Best Practice. Wolters Kluswer｜Lippincott Williams & Wilins](https://goo.gl/eKARDx)　※EBP    
 [村井 潤一郎・橋本 貴充(編著)(2017). 心理学のためのサンプルサイズ設計入門. 講談社.](https://goo.gl/bwL6mk)　※research  
 [斎藤清二(2016). 医療におけるナラティブとエビデンス 改訂版 ──対立から調和へ. 遠見書房.](https://goo.gl/sTN95H)　※EBP  
 
