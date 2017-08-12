@@ -169,6 +169,7 @@
 [Evidence-Based Medicine](http://ebm.bmj.com/)｜BMJ，UK  
 [Evidence-Based Mental Health](http://ebmh.bmj.com/)｜BMJ，UK  
 [Evidence-Based Nursing](http://ebn.bmj.com/)｜BMJ，UK  
+[Health Evidence](http://www.healthevidence.org/)｜McMaster University，Canada  
 
   4. **<font face="ヒラギノ角ゴ Pro">Syntheses</font>**  
 [Cochrane Detabase of Systematic Review(CDSR)](http://onlinelibrary.wiley.com/cochranelibrary/search)｜Cochrane Collaboration/John Wiley & Sons，Global Network　※free  
@@ -251,6 +252,7 @@
 [JAMA Psychiatry](http://jamanetwork.com/journals/jamapsychiatry)｜JAMA，US  
 [Journal of Clinical Psychiatry](http://www.psychiatrist.com/JCP/TOC/Pages/con7806.aspx)｜Physicians Postgraduate Press，US　※RCTsあり  
 [Nature human behaviour](https://www.nature.com/nathumbehav)｜Nature，UK  
+[PLOS ONE(Mental health and psychiatry)](http://journals.plos.org/plosone/browse/mental_health_and_psychiatry)｜US  
 [Psychological Medicine](https://www.cambridge.org/core/journals/psychological-medicine)｜Cambridge University，UK　※RCTsあり  
 [Psychotherapy and Psychosomatics](https://www.karger.com/Journal/Home/223864)｜KARGER，Switzerland  
 
@@ -293,8 +295,10 @@ AGREE -ガイドライン評価｜CARE -症例研究｜CONSORT -無作為化比�
 
   * EBP｜日本  
 [AHEADMAP](https://aheadmap.jimdo.com/)  
-行動療法研究. (2014). [行動療法研究における研究報告に関するガイドライン](http://jabt.umin.ne.jp/j/activities/3-6journal.html)   日本認知・行動療法学会.  
-奥村泰之.[臨床疫学研究における報告の質向上のための統計学の研究会](http://blue.zero.jp/yokumura/workshop.html)  
+行動療法研究. (2014).  
+[GRADE システム.](http://www.grade-jpn.com/) 相原内科医院.
+[行動療法研究における研究報告に関するガイドライン](http://jabt.umin.ne.jp/j/activities/3-6journal.html)｜日本認知・行動療法学会.  
+奥村泰之. [臨床疫学研究における報告の質向上のための統計学の研究会](http://blue.zero.jp/yokumura/workshop.html)  
 
   * R  
 国里愛彦(2017).[臨床心理学におけるR入門: データハンドリングから統計解析まで.](https://www.slideshare.net/YoshihikoKunisato/r-74207682) SlideShare.  
@@ -320,9 +324,8 @@ AGREE -ガイドライン評価｜CARE -症例研究｜CONSORT -無作為化比�
 [Registered Reports](https://cos.io/rr/)｜COS，NPO，US  
 
   * Replicability(再現可能性)/Reproducibility(再生可能性)  
-Definition(定義)：[Replicability vs Reproducibility](http://www.replicability.tau.ac.il/index.php/replicability-in-science/replicability-vs-reproducibility.html)｜Replicability Research Group：Tel Aviv University，
-Israel  
-国里愛彦(2017).[統計解析の再現可能性を高める取り組み.](https://www.slideshare.net/YoshihikoKunisato/ss-77835559) SlideShare.
+Definition(定義)：[Replicability vs Reproducibility](http://www.replicability.tau.ac.il/index.php/replicability-in-science/replicability-vs-reproducibility.html)｜Replicability Research Group：Tel Aviv University，Israel  
+国里愛彦(2017). [統計解析の再現可能性を高める取り組み.](https://www.slideshare.net/YoshihikoKunisato/ss-77835559) SlideShare.
 
   * Sharing Data/Digital Repository  
 [Dataverse](https://dataverse.org/)｜Harvard University，US  
@@ -369,7 +372,7 @@ Israel
 [Lilienfeld, S. O., Ritschel, L. A., Lynn, S. J., Cautin, R. L., & Latzman, R. D. (2014).  Why Ineffective Psychotherapies Appear to Work: A Taxonomy of Causes of Spurious Therapeutic Effectiveness. Perspectives on Psychological Science, 9(4), 355-387.](http://journals.sagepub.com/doi/abs/10.1177/1745691614535216)　※EBP，bias  
 [正木朋也・津谷喜一郎. (2006). エビデンスに基づく医療(EBM)の系譜と方向性: 保健医療評価に果たすコクラン共同計画の役割と未来. 日本評価研究, 6(1), 3-20.](https://www.jstage.jst.go.jp/article/jjoes2001/6/1/6_1_3/_article/references/-char/ja/)　※EBM，review  
 [松見淳子(2016).エビデンスに基づく応用心理学的実践と科学者–実践家モデル ―教育・研究・実践の連携―](http://ci.nii.ac.jp/naid/40020897216)　※EBP  
-松岡千代・濱吉美徳. (2010). [エビデンスに基づく看護実践に関する看護師の認識と障壁 -質の高い老年看護実践を目指して-. RINCPC Bulletin, 17, 61-74.](http://ci.nii.ac.jp/naid/40017097168)　※EBP，research-practice gap  
+[松岡千代・濱吉美徳. (2010). エビデンスに基づく看護実践に関する看護師の認識と障壁 -質の高い老年看護実践を目指して-. RINCPC Bulletin, 17, 61-74.](http://ci.nii.ac.jp/naid/40017097168)　※EBP，research-practice gap  
 [Moriana, J. A., Gálvez-Lara, M., & Corpas, J. (2017). Psychological treatments for mental disorders in adults: A review of the evidence of leading international organizations. Clinical Psychology Review, 54, 29-43.](http://www.sciencedirect.com/science/article/pii/S0272735816302896)　※EBP  
 [Murad, M. H. (2017). Clinical Practice Guidelines: A Primer on Development and Dissemination. Mayo Clinic Proceedings, 92(3), 423-433.](http://www.mayoclinicproceedings.org/article/S0025-6196(17)30025-3/fulltext)　※EBP, guidelines  
 [Murada, M. H., Asi, N., Alsawas, M., & Alahdab, F. (2016). New evidence pyramid. Evidence-Based Medicine, 21, 125-127.](http://ebm.bmj.com/content/early/2016/06/23/ebmed-2016-110401.full)　※EBM，evidence  
@@ -382,6 +385,7 @@ Israel
 [Sackett, D. L., Rosenberg, W. M. C., Gray, J. A. M., Haynes, R. B., & Richardson, W. S. (1996). Evidence based medicine: what it is and what it isn’t. BMJ, 312, 71-72.](http://www.bmj.com/content/312/7023/71) ※EBM  
 [Scott, S. D., Brett-MacLean, P., Archibald, M., Hartling, L. (2013). Protocol for a systematic review of the use of narrative storytelling and visual-arts-based approaches as knowledge translation tools in healthcare. Systematic Reviews, 2:19, 1-7.](https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/2046-4053-2-19)　※EBP，knowledge translation  
 [心理学評論(2016). 特集:心理学の再現可能性](http://team1mile.com/sjpr59-1/)　※reproducibility  
+[Shokraneh, F., & Adams, C. E. (2017). Increasing value and reducing waste in data extraction for systematic reviews: tracking data in data extraction forms. Systematic Reviews, 6(1):153, 1-3.](https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/s13643-017-0546-z) ※systematic review  
 [Simpson‐Southward, C., Walle, G., & Hardy, G. E. (2017). How do we know what makes for “best practice” in clinical supervision for psychological therapists? A content analysis of supervisory models and approaches. Clinical Psychology & Psychotherapy, 1-18.](http://onlinelibrary.wiley.com/doi/10.1002/cpp.2084/abstract)　※EBP，supervision  
 [Spring, B. (2007). Evidence-based practice in clinical psychology: what it is, why it matters; what you need to know. Journal of Clinical Psychology, 63(7), 611-631.](http://onlinelibrary.wiley.com/doi/10.1002/jclp.20373/abstract)　※EBP  
 [Steglitz, J., Wright, J. D., Warnick, J. L., Hoffman, S. A., Johnston, W., & Spring, B. (2015). Evidence-based practice. In International Encyclopedia of Social and Behavioral Sciences(2nd ed), 8, 332-338. London: Oxford Elsevier.](https://www.researchgate.net/publication/276203294_Evidence-Based_Practice)　※EBP  
@@ -391,11 +395,13 @@ Israel
 <p style="margin-bottom:2em;">
 　**<font face="ヒラギノ角ゴ Pro">書籍</font>**  
 
-  * [福原俊一(2017). 臨床研究の道標 第2版〈上巻〉〈下巻〉. 特定非営利活動法人 健康医療評価研究機構.](https://goo.gl/HLzUkQ)　※research  
+  * [Chambers, C. (2017). The Seven Deadly Sins of Psychology: A Manifesto for Reforming the Culture of Scientific Practice. Princeton University Press.](https://goo.gl/Fyo9Zm) ※research  
+[福原俊一(2017). 臨床研究の道標 第2版〈上巻〉〈下巻〉. 特定非営利活動法人 健康医療評価研究機構.](https://goo.gl/HLzUkQ)　※research  
 [福原俊一(2015). リサーチ・クエスチョンの作り方 第3版. 特定非営利活動法人 健康医療評価研究機構.](https://goo.gl/HZXs3S)　※research  
 [原田隆之(2015). 心理職のためのエビデンス・ベイスト・プラクティス入門―エビデンスを「まなぶ」「つくる」「つかう」. 金剛出版.](https://goo.gl/UQg8z4)　※EBP  
 [Houser, J., & Oman, K. S. (Ed.)(2011).  EVIDENCE-BASED PRACTICE An Implementation Guide for Healthcare Organizations. Canada:Jones & Bartlett Learning.](https://goo.gl/vVXBWs) (オンラインで取得可)  
-[Hoffmann, T., Bennett, S., & Del Mar, C. (2017). Evidence-Based Practice Across the Health Professions. :Elsevier.](https://goo.gl/oLnRFs)　※EBP  
+[Greenhalgh, T. (2017). How to Implement Evidence-Based Healthcare. Wiley-Blackwell.](https://goo.gl/s3u1Bo) ※EBP  
+[Hoffmann, T., Bennett, S., & Del Mar, C. (2017). Evidence-Based Practice Across the Health Professions. Elsevier.](https://goo.gl/oLnRFs)　※EBP  
 [牧本清子(2014). よくわかる看護研究論文のクリティーク―研究手法別のチェックシートで学ぶ.](https://goo.gl/piUSfH) 日本看護協会出版会.　※research  
 [Melnyk, B., & Fineout-Overholt, E. (2014). Evidence-Based Practice in Nursing & Healthcare: A Guide to Best Practice. Wolters Kluswer｜Lippincott Williams & Wilins](https://goo.gl/eKARDx)　※EBP 　(第2版はオンラインで取得可)  
 [村井 潤一郎・橋本 貴充(編著)(2017). 心理学のためのサンプルサイズ設計入門. 講談社.](https://goo.gl/bwL6mk)　※research  
