@@ -311,15 +311,17 @@ AGREE -ガイドライン評価｜CARE -症例研究｜CONSORT -無作為化比�
 [PsyArXiv](https://osf.io/preprints/psyarxiv)｜COS，US，preprint(事前出版)  
 [Psychological Science Submission Guidelines](http://www.psychologicalscience.org/publications/psychological_science/ps-submissions#OPEN)(Accepted Manuscripts)｜Pschological Science  
 [The Peer Reviewers’ Openness Initiative](https://opennessinitiative.org/)  
+[Thesis Commons](https://thesiscommons.org/?utm_source=Thesis_Commons_PR&utm_medium=press_release&utm_campaign=Thesis_Commons)｜COS，US  
 [Tracking switched outcomes in clinical trials](http://compare-trials.org/)｜EBM DataLab：University of Oxford，UK  
 [Transparency and Openness Promotion (TOP) Guidelines](https://cos.io/our-services/top-guidelines/)｜COS，US  
 [Wellcome Open Research](https://wellcomeopenresearch.org/)｜UK  
 [1science](http://www.1science.com/index.html)｜Canada，オープンアクセス関連サービス  
+[101 Innovations in Scholarly Communication](https://innoscholcomm.silk.co/)｜Silk  
 
   * Pre-registration(事前登録)  
-[AsPredicted](https://aspredicted.org/index.php)｜US
+[AsPredicted](https://aspredicted.org/index.php)｜US  
 [Preregistration Challenge](https://cos.io/prereg/)｜COS，NPO，US  
-[PROSPERO](https://www.crd.york.ac.uk/PROSPERO/)｜University of York，UK
+[PROSPERO](https://www.crd.york.ac.uk/PROSPERO/)｜University of York，UK  
 [Registered Reports](https://cos.io/rr/)｜COS，NPO，US  
 
   * Replicability(再現可能性)/Reproducibility(再生可能性)  
@@ -364,6 +366,7 @@ Definition(定義)：[Replicability vs Reproducibility](http://www.replicability
 [Hoffman, T. C., Montori, V. M., & Del Mar, C. (2014). The Connection Between Evidence-Based Medicine and Shared Decision Making. JAMA, 312(13), 1295-1296.](http://jamanetwork.com/journals/jama/article-abstract/1910118)　※EDM，SDM
 [Hoffman, T. C., Oxman, A. D., PA Ioannidis, J., Mohler, D., Lasserson, T., Tovey, D. I, Stein, K., Sutcliffe, K., Ravaud, P., Altman, D. G., Perera, R., & Glasziou, P. (2017). Enhancing the usability of systematic reviews by improving the consideration and description of interventions BMJ, 357:j2998, 1-8.](http://www.bmj.com/content/358/bmj.j2998)　※review  
 [Jensen-Doss, A. (2015). Practical, Evidence-Based Clinical Decision Making: Introduction to the Special Series. Cognitive and Behavioral Practice, 22, 1-4.](http://www.sciencedirect.com/science/article/pii/S1077722914001011?via%3Dihub)　※evidence-based assessment  
+[Loannidis, J. (2017). Next-generation systematic reviews: prospective meta-analysis, individual-level data, networks and umbrella reviews. British Jounal of Sports Medicine.](http://bjsm.bmj.com/content/early/2017/02/21/bjsports-2017-097621.info) ※meta-analysis  
 [影山葉子. (2017). 看護における shared decision-making の実践とその責任 ―代理意思決定者としての家族への支援を通して. 同志社アメリカ研究, 53, 169-190.](https://doors.doshisha.ac.jp/opac/opac_detail_md/?reqCode=fromlist&lang=0&amode=MD10000&bibid=24758&opkey=B150223041916574&start=1&listnum=0&place=&totalnum=1&list_disp=20&list_sort=0&cmode=0&chk_st=0&check=0)　※SDM  
 [Kazdin, A. E. (2017). Addressing the treatment gap: A key challenge for extending evidence-based psychosocial interventions. Behaviour Research and Therapy, 88, 7-18.](http://www.sciencedirect.com/science/article/pii/S0005796716300997)　※EBP，service gap  
 [La Roche, M. J., & Christopher, M. S. (2009). Changing Paradigms from Empirically Supported Treatment to Evidence-Based Practice: A Cultural Perspective. Professional Psychology: Research & Practice, 40(4), 396-402.](http://psycnet.apa.org/doiLanding?doi=10.1037%2Fa0015240)　※EBP，ESTs  
@@ -394,11 +397,11 @@ Definition(定義)：[Replicability vs Reproducibility](http://www.replicability
 <p style="margin-bottom:2em;">
 　**<font face="ヒラギノ角ゴ Pro">書籍</font>**  
 
-  * <span style="color: red; ">NEW!</span> [Chambers, C. (2017). The Seven Deadly Sins of Psychology: A Manifesto for Reforming the Culture of Scientific Practice. Princeton University Press.](https://goo.gl/Fyo9Zm) ※research  
+  * [Chambers, C. (2017). The Seven Deadly Sins of Psychology: A Manifesto for Reforming the Culture of Scientific Practice. Princeton University Press.](https://goo.gl/Fyo9Zm) ※research  
 [福原俊一(2017). 臨床研究の道標 第2版〈上巻〉〈下巻〉. 特定非営利活動法人 健康医療評価研究機構.](https://goo.gl/HLzUkQ)　※research  
 [福原俊一(2015). リサーチ・クエスチョンの作り方 第3版. 特定非営利活動法人 健康医療評価研究機構.](https://goo.gl/HZXs3S)　※research  
 [原田隆之(2015). 心理職のためのエビデンス・ベイスト・プラクティス入門―エビデンスを「まなぶ」「つくる」「つかう」. 金剛出版.](https://goo.gl/UQg8z4)　※EBP  
-<span style="color: red; ">NEW!</span> [Houser, J., & Oman, K. S. (Ed.)(2011).  EVIDENCE-BASED PRACTICE An Implementation Guide for Healthcare Organizations. Canada:Jones & Bartlett Learning.](https://goo.gl/vVXBWs)   
+[Houser, J., & Oman, K. S. (Ed.)(2011).  EVIDENCE-BASED PRACTICE An Implementation Guide for Healthcare Organizations. Canada:Jones & Bartlett Learning.](https://goo.gl/vVXBWs)   
 [Greenhalgh, T. (2017). How to Implement Evidence-Based Healthcare. Wiley-Blackwell.](https://goo.gl/s3u1Bo) ※EBP  
 [Hoffmann, T., Bennett, S., & Del Mar, C. (2017). Evidence-Based Practice Across the Health Professions. Elsevier.](https://goo.gl/oLnRFs)　※EBP  
 [牧本清子(2014). よくわかる看護研究論文のクリティーク―研究手法別のチェックシートで学ぶ.](https://goo.gl/piUSfH) 日本看護協会出版会.　※research  
@@ -409,8 +412,12 @@ Definition(定義)：[Replicability vs Reproducibility](http://www.replicability
 <p style="margin-bottom:2em;">
 　**<font face="ヒラギノ角ゴ Pro">記事</font>**  
 
-  * 20170809  
-<span style="color: red; ">NEW!</span> Elman, C. & Kapiszewski, D. [Benefits and Challenges of Making Qualitative Research More Transparent.](https://goo.gl/vvZU3H) Inside Higher ED.
+  * 20170818  
+Wayant, C. [Explanations about how treatments work can be wrong.](https://goo.gl/abAjTK) Student 4 Best Evidence. 
+20170814  
+Morey, R. [Are the times a-changin’? Reporting before and after the 2015 statistical guidelines.](https://goo.gl/VmX2f7) Psychonomic Society.  
+20170809  
+Elman, C. & Kapiszewski, D. [Benefits and Challenges of Making Qualitative Research More Transparent.](https://goo.gl/vvZU3H) Inside Higher ED.
 20170805
 Whitaker, K. [Showing your working: a how to guide to reproducible research.](https://goo.gl/QFwrsa) figshare.  
 20170804  
@@ -421,7 +428,7 @@ Wagenmakers, EJ. [Redefine Statistical Significance Part I: Sleep Trolls & Red H
 20170802  
 Staniszewska, S. &  Stephens, R. [New guidance for reporting patient and public involvement in research.](https://goo.gl/qxKcuX) BioMed Central blog network On Medicine.  
 20170801  
-<span style="color: red; ">NEW!</span> American Psychological Association. [APA Journals Program Collaborates with Center for Open Science to Advance Open Science Practices in Psychological Research.](http://www.apa.org/news/press/releases/2017/08/open-science.aspx)  
+American Psychological Association. [APA Journals Program Collaborates with Center for Open Science to Advance Open Science Practices in Psychological Research.](http://www.apa.org/news/press/releases/2017/08/open-science.aspx)  
 Turner, T., & Soares-Weiser, K. [Ensuring Cochrane Reviews remain trusted, and trustworthy, evidence in an era of fake news.](https://goo.gl/c5Tj9u) BioMed Central blog network On Medicine.  
 20170729  
 Chivers, T. [These People Are Trying To Fix A Huge Problem In Science.](https://goo.gl/7yvuZ7) BuzzFeed News.  
@@ -430,10 +437,6 @@ Pussegoda, K. [Quality of systematic reviews is variable: what guidelines are ap
 20170528  
 津川友介.[科学者はどのように「不完全なエビデンス」を国民に伝えるべきか？](https://healthpolicyhealthecon.com/2017/05/28/imperfect-evidence/) 医療政策学×医療経済学  
 
-<p style="margin-bottom:2em;">
-　**<font face="ヒラギノ角ゴ Pro">今後の予定</font>** 
-
-  * 
 <br></br>
 
 <hr>
